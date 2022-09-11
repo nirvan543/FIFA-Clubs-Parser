@@ -1,2173 +1,2683 @@
 {
     "countries": [
         {
-            "countryName": "ARGENTINA",
+            "name": "ARGENTINA",
             "leagues": [
                 {
                     "clubs": [
                         {
-                            "clubName": "Aldosivi"
+                            "name": "Aldosivi"
                         },
                         {
-                            "clubName": "Argentinos Jrs."
+                            "name": "Argentinos Jrs."
                         },
                         {
-                            "clubName": "Arsenal"
+                            "name": "Arsenal"
                         },
                         {
-                            "clubName": "Atlético Tucumán"
+                            "name": "Atlético Tucumán"
                         },
                         {
-                            "clubName": "Banfield"
+                            "name": "Banfield"
                         },
                         {
-                            "clubName": "Boca Juniors"
+                            "name": "Boca Juniors"
                         },
                         {
-                            "clubName": "Central Córdoba"
+                            "name": "Central Córdoba"
                         },
                         {
-                            "clubName": "Colón"
+                            "name": "Colón"
                         },
                         {
-                            "clubName": "Defensa"
+                            "name": "Defensa"
                         },
                         {
-                            "clubName": "Estudiantes"
+                            "name": "Estudiantes"
                         },
                         {
-                            "clubName": "Gimnasia"
+                            "name": "Gimnasia"
                         },
                         {
-                            "clubName": "Godoy Cruz"
+                            "name": "Godoy Cruz"
                         },
                         {
-                            "clubName": "Huracán"
+                            "name": "Huracán"
                         },
                         {
-                            "clubName": "Independiente"
+                            "name": "Independiente"
                         },
                         {
-                            "clubName": "Lanús"
+                            "name": "Lanús"
                         },
                         {
-                            "clubName": "Newell's"
+                            "name": "Newell's"
                         },
                         {
-                            "clubName": "Patronato"
+                            "name": "Patronato"
                         },
                         {
-                            "clubName": "Platense"
+                            "name": "Platense"
                         },
                         {
-                            "clubName": "Racing Club"
+                            "name": "Racing Club"
                         },
                         {
-                            "clubName": "River Plate"
+                            "name": "River Plate"
                         },
                         {
-                            "clubName": "Rosario Central"
+                            "name": "Rosario Central"
                         },
                         {
-                            "clubName": "San Lorenzo"
+                            "name": "San Lorenzo"
                         },
                         {
-                            "clubName": "Sarmiento"
+                            "name": "Sarmiento"
                         },
                         {
-                            "clubName": "Talleres"
+                            "name": "Talleres"
                         },
                         {
-                            "clubName": "Unión"
+                            "name": "Unión"
                         },
                         {
-                            "clubName": "Vélez Sarsfield"
+                            "name": "Vélez Sarsfield"
                         }
                     ],
-                    "leagueName": "LIGA PROFESIONAL DE FÚTBOL"
+                    "name": "LIGA PROFESIONAL DE FÚTBOL"
                 }
             ]
         },
         {
-            "countryName": "AUSTRALIA",
+            "name": "AUSTRALIA",
             "leagues": [
                 {
                     "clubs": [
                         {
-                            "clubName": "Adelaide United"
+                            "name": "Adelaide United"
                         },
                         {
-                            "clubName": "Brisbane Roar"
+                            "name": "Brisbane Roar"
                         },
                         {
-                            "clubName": "Central Coast"
+                            "name": "Central Coast"
                         },
                         {
-                            "clubName": "Macarthur FC"
+                            "name": "Macarthur FC"
                         },
                         {
-                            "clubName": "Melb. Victory"
+                            "name": "Melb. Victory"
                         },
                         {
-                            "clubName": "Melbourne City"
+                            "name": "Melbourne City"
                         },
                         {
-                            "clubName": "Newcastle Jets"
+                            "name": "Newcastle Jets"
                         },
                         {
-                            "clubName": "Perth Glory"
+                            "name": "Perth Glory"
                         },
                         {
-                            "clubName": "Sydney FC"
+                            "name": "Sydney FC"
                         },
                         {
-                            "clubName": "Well. Phoenix"
+                            "name": "Well. Phoenix"
                         },
                         {
-                            "clubName": "Western United"
+                            "name": "Western United"
                         },
                         {
-                            "clubName": "WS Wanderers"
+                            "name": "WS Wanderers"
                         }
                     ],
-                    "leagueName": "A-LEAGUE"
+                    "name": "A-LEAGUE"
                 }
             ]
         },
         {
-            "countryName": "AUSTRIA",
+            "name": "AUSTRIA",
             "leagues": [
                 {
                     "clubs": [
                         {
-                            "clubName": "Admira Wacker"
+                            "name": "Admira Wacker"
                         },
                         {
-                            "clubName": "Austria Klagenfurt"
+                            "name": "Austria Klagenfurt"
                         },
                         {
-                            "clubName": "FK Austria Wien"
+                            "name": "FK Austria Wien"
                         },
                         {
-                            "clubName": "LASK"
+                            "name": "LASK"
                         },
                         {
-                            "clubName": "RB Salzburg"
+                            "name": "RB Salzburg"
                         },
                         {
-                            "clubName": "SCR Altach"
+                            "name": "SCR Altach"
                         },
                         {
-                            "clubName": "SK Rapid Wien"
+                            "name": "SK Rapid Wien"
                         },
                         {
-                            "clubName": "SK Sturm Graz"
+                            "name": "SK Sturm Graz"
                         },
                         {
-                            "clubName": "SV Ried"
+                            "name": "SV Ried"
                         },
                         {
-                            "clubName": "TSV Hartberg"
+                            "name": "TSV Hartberg"
                         },
                         {
-                            "clubName": "Wolfsberger AC"
+                            "name": "Wolfsberger AC"
                         },
                         {
-                            "clubName": "WSG Tirol"
+                            "name": "WSG Tirol"
                         }
                     ],
-                    "leagueName": "Ö. BUNDESLIGA"
+                    "name": "Ö. BUNDESLIGA"
                 }
             ]
         },
         {
-            "countryName": "BELGIUM",
+            "name": "BELGIUM",
             "leagues": [
                 {
                     "clubs": [
                         {
-                            "clubName": "Cercle Brugge"
+                            "name": "Cercle Brugge"
                         },
                         {
-                            "clubName": "Club Brugge"
+                            "name": "Club Brugge"
                         },
                         {
-                            "clubName": "K Beerschot VA"
+                            "name": "K Beerschot VA"
                         },
                         {
-                            "clubName": "KAA Gent"
+                            "name": "KAA Gent"
                         },
                         {
-                            "clubName": "KAS Eupen"
+                            "name": "KAS Eupen"
                         },
                         {
-                            "clubName": "KRC Genk"
+                            "name": "KRC Genk"
                         },
                         {
-                            "clubName": "KV Kortrijk"
+                            "name": "KV Kortrijk"
                         },
                         {
-                            "clubName": "KV Mechelen"
+                            "name": "KV Mechelen"
                         },
                         {
-                            "clubName": "KV Oostende"
+                            "name": "KV Oostende"
                         },
                         {
-                            "clubName": "OH Leuven"
+                            "name": "OH Leuven"
                         },
                         {
-                            "clubName": "RFC Seraing"
+                            "name": "RFC Seraing"
                         },
                         {
-                            "clubName": "Royal Antwerp FC"
+                            "name": "Royal Antwerp FC"
                         },
                         {
-                            "clubName": "RSC Anderlecht"
+                            "name": "RSC Anderlecht"
                         },
                         {
-                            "clubName": "Sint-Truiden"
+                            "name": "Sint-Truiden"
                         },
                         {
-                            "clubName": "Sp. Charleroi"
+                            "name": "Sp. Charleroi"
                         },
                         {
-                            "clubName": "Standard Liège"
+                            "name": "Standard Liège"
                         },
                         {
-                            "clubName": "Union SG"
+                            "name": "Union SG"
                         },
                         {
-                            "clubName": "Zulte Waregem"
+                            "name": "Zulte Waregem"
                         }
                     ],
-                    "leagueName": "1A PRO LEAGUE"
+                    "name": "1A PRO LEAGUE"
                 }
             ]
         },
         {
-            "countryName": "BRAZIL",
+            "name": "BRAZIL",
             "leagues": [
                 {
                     "clubs": [
                         {
-                            "clubName": "Athletico-PR"
+                            "name": "Athletico-PR"
                         },
                         {
-                            "clubName": "Atlético Mineiro"
+                            "name": "Atlético Mineiro"
                         },
                         {
-                            "clubName": "Atlético-GO"
+                            "name": "Atlético-GO"
                         },
                         {
-                            "clubName": "Bahia"
+                            "name": "Bahia"
                         },
                         {
-                            "clubName": "Ceará SC"
+                            "name": "Ceará SC"
                         },
                         {
-                            "clubName": "Chapecoense"
+                            "name": "Chapecoense"
                         },
                         {
-                            "clubName": "Cuiabá"
+                            "name": "Cuiabá"
                         },
                         {
-                            "clubName": "Fluminense"
+                            "name": "Fluminense"
                         },
                         {
-                            "clubName": "Fortaleza"
+                            "name": "Fortaleza"
                         },
                         {
-                            "clubName": "Grêmio"
+                            "name": "Grêmio"
                         },
                         {
-                            "clubName": "Internacional"
+                            "name": "Internacional"
                         },
                         {
-                            "clubName": "Juventude"
+                            "name": "Juventude"
                         },
                         {
-                            "clubName": "Santos"
+                            "name": "Santos"
                         }
                     ],
-                    "leagueName": "LIGA DO BRASIL"
+                    "name": "LIGA DO BRASIL"
                 }
             ]
         },
         {
-            "countryName": "CHINA",
+            "name": "CHINA",
             "leagues": [
                 {
                     "clubs": [
                         {
-                            "clubName": "Beijing Guoan"
+                            "name": "Beijing Guoan"
                         },
                         {
-                            "clubName": "Cangzhou Lions"
+                            "name": "Cangzhou Lions"
                         },
                         {
-                            "clubName": "Changchun Yatai"
+                            "name": "Changchun Yatai"
                         },
                         {
-                            "clubName": "Chongqing LJ Ath"
+                            "name": "Chongqing LJ Ath"
                         },
                         {
-                            "clubName": "Dalian Pro"
+                            "name": "Dalian Pro"
                         },
                         {
-                            "clubName": "Guangzhou City"
+                            "name": "Guangzhou City"
                         },
                         {
-                            "clubName": "Guangzhou FC"
+                            "name": "Guangzhou FC"
                         },
                         {
-                            "clubName": "Hebei FC"
+                            "name": "Hebei FC"
                         },
                         {
-                            "clubName": "Henan Songshan"
+                            "name": "Henan Songshan"
                         },
                         {
-                            "clubName": "Qingdao FC"
+                            "name": "Qingdao FC"
                         },
                         {
-                            "clubName": "Shandong Taishan"
+                            "name": "Shandong Taishan"
                         },
                         {
-                            "clubName": "Shanghai Port"
+                            "name": "Shanghai Port"
                         },
                         {
-                            "clubName": "Shanghai Shenhua"
+                            "name": "Shanghai Shenhua"
                         },
                         {
-                            "clubName": "Shenzhen FC"
+                            "name": "Shenzhen FC"
                         },
                         {
-                            "clubName": "Tianjin JMT"
+                            "name": "Tianjin JMT"
                         },
                         {
-                            "clubName": "Wuhan FC"
+                            "name": "Wuhan FC"
                         }
                     ],
-                    "leagueName": "CSL"
+                    "name": "CSL"
                 }
             ]
         },
         {
-            "countryName": "DENMARK",
+            "name": "DENMARK",
             "leagues": [
                 {
                     "clubs": [
                         {
-                            "clubName": "Aalborg BK"
+                            "name": "Aalborg BK"
                         },
                         {
-                            "clubName": "Aarhus AGF"
+                            "name": "Aarhus AGF"
                         },
                         {
-                            "clubName": "Brøndby IF"
+                            "name": "Brøndby IF"
                         },
                         {
-                            "clubName": "F.C. København"
+                            "name": "F.C. København"
                         },
                         {
-                            "clubName": "FC Midtjylland"
+                            "name": "FC Midtjylland"
                         },
                         {
-                            "clubName": "FC Nordsjælland"
+                            "name": "FC Nordsjælland"
                         },
                         {
-                            "clubName": "Odense BK"
+                            "name": "Odense BK"
                         },
                         {
-                            "clubName": "Randers FC"
+                            "name": "Randers FC"
                         },
                         {
-                            "clubName": "Silkeborg IF"
+                            "name": "Silkeborg IF"
                         },
                         {
-                            "clubName": "SønderjyskE"
+                            "name": "SønderjyskE"
                         },
                         {
-                            "clubName": "Vejle Boldklub"
+                            "name": "Vejle Boldklub"
                         },
                         {
-                            "clubName": "Viborg FF"
+                            "name": "Viborg FF"
                         }
                     ],
-                    "leagueName": "3F SUPERLIGA"
+                    "name": "3F SUPERLIGA"
                 }
             ]
         },
         {
-            "countryName": "ENGLAND",
+            "name": "ENGLAND",
             "leagues": [
                 {
                     "clubs": [
                         {
-                            "clubName": "Arsenal"
+                            "name": "Arsenal"
                         },
                         {
-                            "clubName": "Aston Villa"
+                            "name": "Aston Villa"
                         },
                         {
-                            "clubName": "Brentford"
+                            "name": "Brentford"
                         },
                         {
-                            "clubName": "Brighton"
+                            "name": "Brighton"
                         },
                         {
-                            "clubName": "Burnley"
+                            "name": "Burnley"
                         },
                         {
-                            "clubName": "Chelsea"
+                            "name": "Chelsea"
                         },
                         {
-                            "clubName": "Crystal Palace"
+                            "name": "Crystal Palace"
                         },
                         {
-                            "clubName": "Everton"
+                            "name": "Everton"
                         },
                         {
-                            "clubName": "Leeds United"
+                            "name": "Leeds United"
                         },
                         {
-                            "clubName": "Leicester City"
+                            "name": "Leicester City"
                         },
                         {
-                            "clubName": "Liverpool"
+                            "name": "Liverpool"
                         },
                         {
-                            "clubName": "Manchester City"
+                            "name": "Manchester City"
                         },
                         {
-                            "clubName": "Manchester Utd"
+                            "name": "Manchester Utd"
                         },
                         {
-                            "clubName": "Newcastle Utd"
+                            "name": "Newcastle Utd"
                         },
                         {
-                            "clubName": "Norwich"
+                            "name": "Norwich"
                         },
                         {
-                            "clubName": "Southampton"
+                            "name": "Southampton"
                         },
                         {
-                            "clubName": "Spurs"
+                            "name": "Spurs"
                         },
                         {
-                            "clubName": "Watford"
+                            "name": "Watford"
                         },
                         {
-                            "clubName": "West Ham"
+                            "name": "West Ham"
                         },
                         {
-                            "clubName": "Wolves"
+                            "name": "Wolves"
                         }
                     ],
-                    "leagueName": "PREMIER LEAGUE"
+                    "name": "PREMIER LEAGUE"
                 },
                 {
                     "clubs": [
                         {
-                            "clubName": "AFC Bournemouth"
+                            "name": "AFC Bournemouth"
                         },
                         {
-                            "clubName": "Barnsley"
+                            "name": "Barnsley"
                         },
                         {
-                            "clubName": "Birmingham City"
+                            "name": "Birmingham City"
                         },
                         {
-                            "clubName": "Blackburn Rovers"
+                            "name": "Blackburn Rovers"
                         },
                         {
-                            "clubName": "Blackpool"
+                            "name": "Blackpool"
                         },
                         {
-                            "clubName": "Bristol City"
+                            "name": "Bristol City"
                         },
                         {
-                            "clubName": "Cardiff City"
+                            "name": "Cardiff City"
                         },
                         {
-                            "clubName": "Coventry City"
+                            "name": "Coventry City"
                         },
                         {
-                            "clubName": "Derby County"
+                            "name": "Derby County"
                         },
                         {
-                            "clubName": "Fulham"
+                            "name": "Fulham"
                         },
                         {
-                            "clubName": "Huddersfield"
+                            "name": "Huddersfield"
                         },
                         {
-                            "clubName": "Hull City"
+                            "name": "Hull City"
                         },
                         {
-                            "clubName": "Luton Town"
+                            "name": "Luton Town"
                         },
                         {
-                            "clubName": "Middlesbrough"
+                            "name": "Middlesbrough"
                         },
                         {
-                            "clubName": "Millwall"
+                            "name": "Millwall"
                         },
                         {
-                            "clubName": "Nott'm Forest"
+                            "name": "Nott'm Forest"
                         },
                         {
-                            "clubName": "Peterborough"
+                            "name": "Peterborough"
                         },
                         {
-                            "clubName": "Preston"
+                            "name": "Preston"
                         },
                         {
-                            "clubName": "QPR"
+                            "name": "QPR"
                         },
                         {
-                            "clubName": "Reading"
+                            "name": "Reading"
                         },
                         {
-                            "clubName": "Sheffield Utd"
+                            "name": "Sheffield Utd"
                         },
                         {
-                            "clubName": "Stoke City"
+                            "name": "Stoke City"
                         },
                         {
-                            "clubName": "Swansea City"
+                            "name": "Swansea City"
                         },
                         {
-                            "clubName": "West Brom"
+                            "name": "West Brom"
                         }
                     ],
-                    "leagueName": "EFL CHAMPIONSHIP"
+                    "name": "EFL CHAMPIONSHIP"
                 },
                 {
                     "clubs": [
                         {
-                            "clubName": "Accrington"
+                            "name": "Accrington"
                         },
                         {
-                            "clubName": "AFC Wimbledon"
+                            "name": "AFC Wimbledon"
                         },
                         {
-                            "clubName": "Bolton"
+                            "name": "Bolton"
                         },
                         {
-                            "clubName": "Burton Albion"
+                            "name": "Burton Albion"
                         },
                         {
-                            "clubName": "Cambridge Utd"
+                            "name": "Cambridge Utd"
                         },
                         {
-                            "clubName": "Charlton Ath"
+                            "name": "Charlton Ath"
                         },
                         {
-                            "clubName": "Cheltenham Town"
+                            "name": "Cheltenham Town"
                         },
                         {
-                            "clubName": "Crewe Alexandra"
+                            "name": "Crewe Alexandra"
                         },
                         {
-                            "clubName": "Doncaster"
+                            "name": "Doncaster"
                         },
                         {
-                            "clubName": "Fleetwood Town"
+                            "name": "Fleetwood Town"
                         },
                         {
-                            "clubName": "Gillingham"
+                            "name": "Gillingham"
                         },
                         {
-                            "clubName": "Ipswich"
+                            "name": "Ipswich"
                         },
                         {
-                            "clubName": "Lincoln City"
+                            "name": "Lincoln City"
                         },
                         {
-                            "clubName": "MK Dons"
+                            "name": "MK Dons"
                         },
                         {
-                            "clubName": "Morecambe"
+                            "name": "Morecambe"
                         },
                         {
-                            "clubName": "Oxford United"
+                            "name": "Oxford United"
                         },
                         {
-                            "clubName": "Plymouth Argyle"
+                            "name": "Plymouth Argyle"
                         },
                         {
-                            "clubName": "Portsmouth"
+                            "name": "Portsmouth"
                         },
                         {
-                            "clubName": "Rotherham Utd"
+                            "name": "Rotherham Utd"
                         },
                         {
-                            "clubName": "Sheffield Wed"
+                            "name": "Sheffield Wed"
                         },
                         {
-                            "clubName": "Shrewsbury"
+                            "name": "Shrewsbury"
                         },
                         {
-                            "clubName": "Sunderland"
+                            "name": "Sunderland"
                         },
                         {
-                            "clubName": "Wigan Athletic"
+                            "name": "Wigan Athletic"
                         },
                         {
-                            "clubName": "Wycombe"
+                            "name": "Wycombe"
                         }
                     ],
-                    "leagueName": "EFL LEAGUE ONE"
+                    "name": "EFL LEAGUE ONE"
                 },
                 {
                     "clubs": [
                         {
-                            "clubName": "Barrow"
+                            "name": "Barrow"
                         },
                         {
-                            "clubName": "Bradford City"
+                            "name": "Bradford City"
                         },
                         {
-                            "clubName": "Bristol Rovers"
+                            "name": "Bristol Rovers"
                         },
                         {
-                            "clubName": "Carlisle United"
+                            "name": "Carlisle United"
                         },
                         {
-                            "clubName": "Colchester"
+                            "name": "Colchester"
                         },
                         {
-                            "clubName": "Crawley Town"
+                            "name": "Crawley Town"
                         },
                         {
-                            "clubName": "Exeter City"
+                            "name": "Exeter City"
                         },
                         {
-                            "clubName": "Forest Green"
+                            "name": "Forest Green"
                         },
                         {
-                            "clubName": "Harrogate Town"
+                            "name": "Harrogate Town"
                         },
                         {
-                            "clubName": "Hartlepool"
+                            "name": "Hartlepool"
                         },
                         {
-                            "clubName": "Leyton Orient"
+                            "name": "Leyton Orient"
                         },
                         {
-                            "clubName": "Mansfield Town"
+                            "name": "Mansfield Town"
                         },
                         {
-                            "clubName": "Newport County"
+                            "name": "Newport County"
                         },
                         {
-                            "clubName": "Northampton"
+                            "name": "Northampton"
                         },
                         {
-                            "clubName": "Oldham Athletic"
+                            "name": "Oldham Athletic"
                         },
                         {
-                            "clubName": "Port Vale"
+                            "name": "Port Vale"
                         },
                         {
-                            "clubName": "Rochdale"
+                            "name": "Rochdale"
                         },
                         {
-                            "clubName": "Salford City"
+                            "name": "Salford City"
                         },
                         {
-                            "clubName": "Scunthorpe Utd"
+                            "name": "Scunthorpe Utd"
                         },
                         {
-                            "clubName": "Stevenage"
+                            "name": "Stevenage"
                         },
                         {
-                            "clubName": "Sutton United"
+                            "name": "Sutton United"
                         },
                         {
-                            "clubName": "Swindon Town"
+                            "name": "Swindon Town"
                         },
                         {
-                            "clubName": "Tranmere Rovers"
+                            "name": "Tranmere Rovers"
                         },
                         {
-                            "clubName": "Walsall"
+                            "name": "Walsall"
                         }
                     ],
-                    "leagueName": "EFL LEAGUE TWO"
+                    "name": "EFL LEAGUE TWO"
                 }
             ]
         },
         {
-            "countryName": "FRANCE",
+            "name": "FRANCE",
             "leagues": [
                 {
                     "clubs": [
                         {
-                            "clubName": "Angers SCO"
+                            "name": "Angers SCO"
                         },
                         {
-                            "clubName": "AS Monaco"
+                            "name": "AS Monaco"
                         },
                         {
-                            "clubName": "AS Saint-Étienne"
+                            "name": "AS Saint-Étienne"
                         },
                         {
-                            "clubName": "Bordeaux"
+                            "name": "Bordeaux"
                         },
                         {
-                            "clubName": "Clermont Foot 63"
+                            "name": "Clermont Foot 63"
                         },
                         {
-                            "clubName": "ESTAC Troyes"
+                            "name": "ESTAC Troyes"
                         },
                         {
-                            "clubName": "FC Lorient"
+                            "name": "FC Lorient"
                         },
                         {
-                            "clubName": "FC Metz"
+                            "name": "FC Metz"
                         },
                         {
-                            "clubName": "FC Nantes"
+                            "name": "FC Nantes"
                         },
                         {
-                            "clubName": "LOSC Lille"
+                            "name": "LOSC Lille"
                         },
                         {
-                            "clubName": "Montpellier"
+                            "name": "Montpellier"
                         },
                         {
-                            "clubName": "OGC Nice"
+                            "name": "OGC Nice"
                         },
                         {
-                            "clubName": "OL"
+                            "name": "OL"
                         },
                         {
-                            "clubName": "OM"
+                            "name": "OM"
                         },
                         {
-                            "clubName": "Paris SG"
+                            "name": "Paris SG"
                         },
                         {
-                            "clubName": "RC Lens"
+                            "name": "RC Lens"
                         },
                         {
-                            "clubName": "Stade Brestois 29"
+                            "name": "Stade Brestois 29"
                         },
                         {
-                            "clubName": "Stade de Reims"
+                            "name": "Stade de Reims"
                         },
                         {
-                            "clubName": "Stade Rennais FC"
+                            "name": "Stade Rennais FC"
                         },
                         {
-                            "clubName": "Strasbourg"
+                            "name": "Strasbourg"
                         }
                     ],
-                    "leagueName": "LIGUE 1 UBER EATS"
+                    "name": "LIGUE 1 UBER EATS"
                 },
                 {
                     "clubs": [
                         {
-                            "clubName": "AC Ajaccio"
+                            "name": "AC Ajaccio"
                         },
                         {
-                            "clubName": "AJ Auxerre"
+                            "name": "AJ Auxerre"
                         },
                         {
-                            "clubName": "Amiens SC"
+                            "name": "Amiens SC"
                         },
                         {
-                            "clubName": "AS Nancy Lorraine"
+                            "name": "AS Nancy Lorraine"
                         },
                         {
-                            "clubName": "Dijon FCO"
+                            "name": "Dijon FCO"
                         },
                         {
-                            "clubName": "En Avant Guingamp"
+                            "name": "En Avant Guingamp"
                         },
                         {
-                            "clubName": "FCSM"
+                            "name": "FCSM"
                         },
                         {
-                            "clubName": "Grenoble Foot 38"
+                            "name": "Grenoble Foot 38"
                         },
                         {
-                            "clubName": "Havre AC"
+                            "name": "Havre AC"
                         },
                         {
-                            "clubName": "Niort"
+                            "name": "Niort"
                         },
                         {
-                            "clubName": "Nîmes Olympique"
+                            "name": "Nîmes Olympique"
                         },
                         {
-                            "clubName": "Paris FC"
+                            "name": "Paris FC"
                         },
                         {
-                            "clubName": "Pau FC"
+                            "name": "Pau FC"
                         },
                         {
-                            "clubName": "Quevilly Rouen"
+                            "name": "Quevilly Rouen"
                         },
                         {
-                            "clubName": "Rodez AF"
+                            "name": "Rodez AF"
                         },
                         {
-                            "clubName": "SC Bastia"
+                            "name": "SC Bastia"
                         },
                         {
-                            "clubName": "SM Caen"
+                            "name": "SM Caen"
                         },
                         {
-                            "clubName": "Toulouse FC"
+                            "name": "Toulouse FC"
                         },
                         {
-                            "clubName": "USL Dunkerque"
+                            "name": "USL Dunkerque"
                         },
                         {
-                            "clubName": "Valenciennes FC"
+                            "name": "Valenciennes FC"
                         }
                     ],
-                    "leagueName": "LIGUE 2 BKT"
+                    "name": "LIGUE 2 BKT"
                 }
             ]
         },
         {
-            "countryName": "GERMANY",
+            "name": "GERMANY",
             "leagues": [
                 {
                     "clubs": [
                         {
-                            "clubName": "1. FC Köln"
+                            "name": "1. FC Köln"
                         },
                         {
-                            "clubName": "1. FSV Mainz 05"
+                            "name": "1. FSV Mainz 05"
                         },
                         {
-                            "clubName": "Arminia Bielefeld"
+                            "name": "Arminia Bielefeld"
                         },
                         {
-                            "clubName": "Borussia Dortmund"
+                            "name": "Borussia Dortmund"
                         },
                         {
-                            "clubName": "FC Augsburg"
+                            "name": "FC Augsburg"
                         },
                         {
-                            "clubName": "FC Bayern München"
+                            "name": "FC Bayern München"
                         },
                         {
-                            "clubName": "Frankfurt"
+                            "name": "Frankfurt"
                         },
                         {
-                            "clubName": "Fürth"
+                            "name": "Fürth"
                         },
                         {
-                            "clubName": "Hertha Berlin"
+                            "name": "Hertha Berlin"
                         },
                         {
-                            "clubName": "Leverkusen"
+                            "name": "Leverkusen"
                         },
                         {
-                            "clubName": "M'gladbach"
+                            "name": "M'gladbach"
                         },
                         {
-                            "clubName": "RB Leipzig"
+                            "name": "RB Leipzig"
                         },
                         {
-                            "clubName": "SC Freiburg"
+                            "name": "SC Freiburg"
                         },
                         {
-                            "clubName": "TSG Hoffenheim"
+                            "name": "TSG Hoffenheim"
                         },
                         {
-                            "clubName": "Union Berlin"
+                            "name": "Union Berlin"
                         },
                         {
-                            "clubName": "VfB Stuttgart"
+                            "name": "VfB Stuttgart"
                         },
                         {
-                            "clubName": "VfL Bochum"
+                            "name": "VfL Bochum"
                         },
                         {
-                            "clubName": "VfL Wolfsburg"
+                            "name": "VfL Wolfsburg"
                         }
                     ],
-                    "leagueName": "BUNDESLIGA"
+                    "name": "BUNDESLIGA"
                 },
                 {
                     "clubs": [
                         {
-                            "clubName": "1. FC Nürnberg"
+                            "name": "1. FC Nürnberg"
                         },
                         {
-                            "clubName": "Düsseldorf"
+                            "name": "Düsseldorf"
                         },
                         {
-                            "clubName": "Dynamo Dresden"
+                            "name": "Dynamo Dresden"
                         },
                         {
-                            "clubName": "FC Erzgebirge Aue"
+                            "name": "FC Erzgebirge Aue"
                         },
                         {
-                            "clubName": "FC Ingolstadt 04"
+                            "name": "FC Ingolstadt 04"
                         },
                         {
-                            "clubName": "FC Schalke 04"
+                            "name": "FC Schalke 04"
                         },
                         {
-                            "clubName": "FC St. Pauli"
+                            "name": "FC St. Pauli"
                         },
                         {
-                            "clubName": "Hamburger SV"
+                            "name": "Hamburger SV"
                         },
                         {
-                            "clubName": "Hannover 96"
+                            "name": "Hannover 96"
                         },
                         {
-                            "clubName": "Heidenheim"
+                            "name": "Heidenheim"
                         },
                         {
-                            "clubName": "Holstein Kiel"
+                            "name": "Holstein Kiel"
                         },
                         {
-                            "clubName": "Karlsruher SC"
+                            "name": "Karlsruher SC"
                         },
                         {
-                            "clubName": "Regensburg"
+                            "name": "Regensburg"
                         },
                         {
-                            "clubName": "Rostock"
+                            "name": "Rostock"
                         },
                         {
-                            "clubName": "SC Paderborn 07"
+                            "name": "SC Paderborn 07"
                         },
                         {
-                            "clubName": "SV Darmstadt 98"
+                            "name": "SV Darmstadt 98"
                         },
                         {
-                            "clubName": "SV Sandhausen"
+                            "name": "SV Sandhausen"
                         },
                         {
-                            "clubName": "SV Werder Bremen"
+                            "name": "SV Werder Bremen"
                         }
                     ],
-                    "leagueName": "BUNDESLIGA 2"
+                    "name": "BUNDESLIGA 2"
                 },
                 {
                     "clubs": [
                         {
-                            "clubName": "1. FC Magdeburg"
+                            "name": "1. FC Magdeburg"
                         },
                         {
-                            "clubName": "1860 München"
+                            "name": "1860 München"
                         },
                         {
-                            "clubName": "B. Dortmund II"
+                            "name": "B. Dortmund II"
                         },
                         {
-                            "clubName": "Braunschweig"
+                            "name": "Braunschweig"
                         },
                         {
-                            "clubName": "FSV Zwickau"
+                            "name": "FSV Zwickau"
                         },
                         {
-                            "clubName": "Hallescher FC"
+                            "name": "Hallescher FC"
                         },
                         {
-                            "clubName": "Kaiserslautern"
+                            "name": "Kaiserslautern"
                         },
                         {
-                            "clubName": "MSV Duisburg"
+                            "name": "MSV Duisburg"
                         },
                         {
-                            "clubName": "Saarbrücken"
+                            "name": "Saarbrücken"
                         },
                         {
-                            "clubName": "SC Freiburg II"
+                            "name": "SC Freiburg II"
                         },
                         {
-                            "clubName": "SC Verl"
+                            "name": "SC Verl"
                         },
                         {
-                            "clubName": "SV Meppen"
+                            "name": "SV Meppen"
                         },
                         {
-                            "clubName": "SV Waldhof"
+                            "name": "SV Waldhof"
                         },
                         {
-                            "clubName": "SVWW"
+                            "name": "SVWW"
                         },
                         {
-                            "clubName": "TSV Havelse"
+                            "name": "TSV Havelse"
                         },
                         {
-                            "clubName": "Türkgücü"
+                            "name": "Türkgücü"
                         },
                         {
-                            "clubName": "VfL Osnabrück"
+                            "name": "VfL Osnabrück"
                         },
                         {
-                            "clubName": "Viktoria Berlin"
+                            "name": "Viktoria Berlin"
                         },
                         {
-                            "clubName": "Viktoria Köln"
+                            "name": "Viktoria Köln"
                         },
                         {
-                            "clubName": "Würzburg"
+                            "name": "Würzburg"
                         }
                     ],
-                    "leagueName": "3. LIGA"
+                    "name": "3. LIGA"
                 }
             ]
         },
         {
-            "countryName": "INDIA",
+            "name": "INDIA",
             "leagues": [
                 {
                     "clubs": [
                         {
-                            "clubName": "ATK Mohun Bagan"
+                            "name": "ATK Mohun Bagan"
                         },
                         {
-                            "clubName": "Bengaluru FC"
+                            "name": "Bengaluru FC"
                         },
                         {
-                            "clubName": "Chennaiyin FC"
+                            "name": "Chennaiyin FC"
                         },
                         {
-                            "clubName": "FC Goa"
+                            "name": "FC Goa"
                         },
                         {
-                            "clubName": "Hyderabad FC"
+                            "name": "Hyderabad FC"
                         },
                         {
-                            "clubName": "Jamshedpur FC"
+                            "name": "Jamshedpur FC"
                         },
                         {
-                            "clubName": "Kerala Blasters"
+                            "name": "Kerala Blasters"
                         },
                         {
-                            "clubName": "Mumbai City FC"
+                            "name": "Mumbai City FC"
                         },
                         {
-                            "clubName": "NorthEast United"
+                            "name": "NorthEast United"
                         },
                         {
-                            "clubName": "Odisha FC"
+                            "name": "Odisha FC"
                         },
                         {
-                            "clubName": "SC East Bengal"
+                            "name": "SC East Bengal"
                         }
                     ],
-                    "leagueName": "HERO ISL"
+                    "name": "HERO ISL"
                 }
             ]
         },
         {
-            "countryName": "ITALY",
+            "name": "ITALY",
             "leagues": [
                 {
                     "clubs": [
                         {
-                            "clubName": "Bergamo Calcio**"
+                            "name": "Bergamo Calcio**"
                         },
                         {
-                            "clubName": "Bologna"
+                            "name": "Bologna"
                         },
                         {
-                            "clubName": "Cagliari"
+                            "name": "Cagliari"
                         },
                         {
-                            "clubName": "Empoli"
+                            "name": "Empoli"
                         },
                         {
-                            "clubName": "Fiorentina"
+                            "name": "Fiorentina"
                         },
                         {
-                            "clubName": "Genoa"
+                            "name": "Genoa"
                         },
                         {
-                            "clubName": "Hellas Verona"
+                            "name": "Hellas Verona"
                         },
                         {
-                            "clubName": "Inter"
+                            "name": "Inter"
                         },
                         {
-                            "clubName": "Latium**"
+                            "name": "Latium**"
                         },
                         {
-                            "clubName": "Milan"
+                            "name": "Milan"
                         },
                         {
-                            "clubName": "Napoli"
+                            "name": "Napoli"
                         },
                         {
-                            "clubName": "Piemonte Calcio**"
+                            "name": "Piemonte Calcio**"
                         },
                         {
-                            "clubName": "Roma FC**"
+                            "name": "Roma FC**"
                         },
                         {
-                            "clubName": "Salernitana"
+                            "name": "Salernitana"
                         },
                         {
-                            "clubName": "Sampdoria"
+                            "name": "Sampdoria"
                         },
                         {
-                            "clubName": "Sassuolo"
+                            "name": "Sassuolo"
                         },
                         {
-                            "clubName": "Spezia"
+                            "name": "Spezia"
                         },
                         {
-                            "clubName": "Torino"
+                            "name": "Torino"
                         },
                         {
-                            "clubName": "Udinese"
+                            "name": "Udinese"
                         },
                         {
-                            "clubName": "Venezia"
+                            "name": "Venezia"
                         }
                     ],
-                    "leagueName": "SERIE A TIM"
+                    "name": "SERIE A TIM"
                 }
             ]
         },
         {
-            "countryName": "JAPAN",
+            "name": "JAPAN",
             "leagues": [
                 {
                     "clubs": [
                         {
-                            "clubName": "Avispa Fukuoka"
+                            "name": "Avispa Fukuoka"
                         },
                         {
-                            "clubName": "Cerezo Osaka"
+                            "name": "Cerezo Osaka"
                         },
                         {
-                            "clubName": "F.C. Tokyo"
+                            "name": "F.C. Tokyo"
                         },
                         {
-                            "clubName": "Gamba Osaka"
+                            "name": "Gamba Osaka"
                         },
                         {
-                            "clubName": "H.Consa.Sapporo"
+                            "name": "H.Consa.Sapporo"
                         },
                         {
-                            "clubName": "Kashima Antlers"
+                            "name": "Kashima Antlers"
                         },
                         {
-                            "clubName": "Kashiwa Reysol"
+                            "name": "Kashiwa Reysol"
                         },
                         {
-                            "clubName": "Kawasaki Frontale"
+                            "name": "Kawasaki Frontale"
                         },
                         {
-                            "clubName": "Nagoya Grampus"
+                            "name": "Nagoya Grampus"
                         },
                         {
-                            "clubName": "Oita Trinita"
+                            "name": "Oita Trinita"
                         },
                         {
-                            "clubName": "S-Hiroshima"
+                            "name": "S-Hiroshima"
                         },
                         {
-                            "clubName": "Sagan Tosu"
+                            "name": "Sagan Tosu"
                         },
                         {
-                            "clubName": "Shimizu S-Pulse"
+                            "name": "Shimizu S-Pulse"
                         },
                         {
-                            "clubName": "Shonan Bellmare"
+                            "name": "Shonan Bellmare"
                         },
                         {
-                            "clubName": "Tokushima Vortis"
+                            "name": "Tokushima Vortis"
                         },
                         {
-                            "clubName": "Urawa Reds"
+                            "name": "Urawa Reds"
                         },
                         {
-                            "clubName": "Vegalta Sendai"
+                            "name": "Vegalta Sendai"
                         },
                         {
-                            "clubName": "Vissel Kobe"
+                            "name": "Vissel Kobe"
                         },
                         {
-                            "clubName": "Yokohama F･M"
+                            "name": "Yokohama F･M"
                         },
                         {
-                            "clubName": "Yokohama FC"
+                            "name": "Yokohama FC"
                         }
                     ],
-                    "leagueName": "MEIJI YASUDA J1"
+                    "name": "MEIJI YASUDA J1"
                 }
             ]
         },
         {
-            "countryName": "KOREA REPUBLIC",
+            "name": "KOREA REPUBLIC",
             "leagues": [
                 {
                     "clubs": [
                         {
-                            "clubName": "Daegu FC"
+                            "name": "Daegu FC"
                         },
                         {
-                            "clubName": "FC Seoul"
+                            "name": "FC Seoul"
                         },
                         {
-                            "clubName": "Gangwon FC"
+                            "name": "Gangwon FC"
                         },
                         {
-                            "clubName": "GwangJu FC"
+                            "name": "GwangJu FC"
                         },
                         {
-                            "clubName": "Incheon United"
+                            "name": "Incheon United"
                         },
                         {
-                            "clubName": "Jeju United"
+                            "name": "Jeju United"
                         },
                         {
-                            "clubName": "Jeonbuk Hyundai"
+                            "name": "Jeonbuk Hyundai"
                         },
                         {
-                            "clubName": "Pohang Steelers"
+                            "name": "Pohang Steelers"
                         },
                         {
-                            "clubName": "Seongnam FC"
+                            "name": "Seongnam FC"
                         },
                         {
-                            "clubName": "Suwon FC"
+                            "name": "Suwon FC"
                         },
                         {
-                            "clubName": "Suwon Samsung"
+                            "name": "Suwon Samsung"
                         },
                         {
-                            "clubName": "Ulsan Hyundai"
+                            "name": "Ulsan Hyundai"
                         }
                     ],
-                    "leagueName": "K LEAGUE 1"
+                    "name": "K LEAGUE 1"
                 }
             ]
         },
         {
-            "countryName": "MEXICO",
+            "name": "MEXICO",
             "leagues": [
                 {
                     "clubs": [
                         {
-                            "clubName": "América"
+                            "name": "América"
                         },
                         {
-                            "clubName": "Atlas"
+                            "name": "Atlas"
                         },
                         {
-                            "clubName": "Atlético de San Luis"
+                            "name": "Atlético de San Luis"
                         },
                         {
-                            "clubName": "CF Monterrey"
+                            "name": "CF Monterrey"
                         },
                         {
-                            "clubName": "Cruz Azul"
+                            "name": "Cruz Azul"
                         },
                         {
-                            "clubName": "FC Juárez"
+                            "name": "FC Juárez"
                         },
                         {
-                            "clubName": "Guadalajara"
+                            "name": "Guadalajara"
                         },
                         {
-                            "clubName": "León"
+                            "name": "León"
                         },
                         {
-                            "clubName": "Mazatlán FC"
+                            "name": "Mazatlán FC"
                         },
                         {
-                            "clubName": "Necaxa"
+                            "name": "Necaxa"
                         },
                         {
-                            "clubName": "Pachuca"
+                            "name": "Pachuca"
                         },
                         {
-                            "clubName": "Puebla"
+                            "name": "Puebla"
                         },
                         {
-                            "clubName": "Pumas"
+                            "name": "Pumas"
                         },
                         {
-                            "clubName": "Querétaro"
+                            "name": "Querétaro"
                         },
                         {
-                            "clubName": "Santos Laguna"
+                            "name": "Santos Laguna"
                         },
                         {
-                            "clubName": "Tigres"
+                            "name": "Tigres"
                         },
                         {
-                            "clubName": "Tijuana"
+                            "name": "Tijuana"
                         },
                         {
-                            "clubName": "Toluca"
+                            "name": "Toluca"
                         }
                     ],
-                    "leagueName": "LIGA BBVA MX"
+                    "name": "LIGA BBVA MX"
                 }
             ]
         },
         {
-            "countryName": "NETHERLANDS",
+            "name": "NETHERLANDS",
             "leagues": [
                 {
                     "clubs": [
                         {
-                            "clubName": "Ajax"
+                            "name": "Ajax"
                         },
                         {
-                            "clubName": "AZ"
+                            "name": "AZ"
                         },
                         {
-                            "clubName": "FC Groningen"
+                            "name": "FC Groningen"
                         },
                         {
-                            "clubName": "FC Twente"
+                            "name": "FC Twente"
                         },
                         {
-                            "clubName": "FC Utrecht"
+                            "name": "FC Utrecht"
                         },
                         {
-                            "clubName": "Feyenoord"
+                            "name": "Feyenoord"
                         },
                         {
-                            "clubName": "Fortuna Sittard"
+                            "name": "Fortuna Sittard"
                         },
                         {
-                            "clubName": "Go Ahead Eagles"
+                            "name": "Go Ahead Eagles"
                         },
                         {
-                            "clubName": "Heracles Almelo"
+                            "name": "Heracles Almelo"
                         },
                         {
-                            "clubName": "N.E.C. Nijmegen"
+                            "name": "N.E.C. Nijmegen"
                         },
                         {
-                            "clubName": "PEC Zwolle"
+                            "name": "PEC Zwolle"
                         },
                         {
-                            "clubName": "PSV"
+                            "name": "PSV"
                         },
                         {
-                            "clubName": "RKC Waalwijk"
+                            "name": "RKC Waalwijk"
                         },
                         {
-                            "clubName": "SC Heerenveen"
+                            "name": "SC Heerenveen"
                         },
                         {
-                            "clubName": "SC Cambuur"
+                            "name": "SC Cambuur"
                         },
                         {
-                            "clubName": "Sparta Rotterdam"
+                            "name": "Sparta Rotterdam"
                         },
                         {
-                            "clubName": "Vitesse"
+                            "name": "Vitesse"
                         },
                         {
-                            "clubName": "Willem II"
+                            "name": "Willem II"
                         }
                     ],
-                    "leagueName": "EREDIVISIE"
+                    "name": "EREDIVISIE"
                 }
             ]
         },
         {
-            "countryName": "NORWAY",
+            "name": "NORWAY",
             "leagues": [
                 {
                     "clubs": [
                         {
-                            "clubName": "FK Bodø/Glimt"
+                            "name": "FK Bodø/Glimt"
                         },
                         {
-                            "clubName": "FK Haugesund"
+                            "name": "FK Haugesund"
                         },
                         {
-                            "clubName": "Kristiansund"
+                            "name": "Kristiansund"
                         },
                         {
-                            "clubName": "Lillestrøm SK"
+                            "name": "Lillestrøm SK"
                         },
                         {
-                            "clubName": "Mjøndalen IF"
+                            "name": "Mjøndalen IF"
                         },
                         {
-                            "clubName": "Molde FK"
+                            "name": "Molde FK"
                         },
                         {
-                            "clubName": "Odds BK"
+                            "name": "Odds BK"
                         },
                         {
-                            "clubName": "Rosenborg BK"
+                            "name": "Rosenborg BK"
                         },
                         {
-                            "clubName": "Sandefjord"
+                            "name": "Sandefjord"
                         },
                         {
-                            "clubName": "Sarpsborg 08"
+                            "name": "Sarpsborg 08"
                         },
                         {
-                            "clubName": "SK Brann"
+                            "name": "SK Brann"
                         },
                         {
-                            "clubName": "Stabæk Fotball"
+                            "name": "Stabæk Fotball"
                         },
                         {
-                            "clubName": "Strømsgodset IF"
+                            "name": "Strømsgodset IF"
                         },
                         {
-                            "clubName": "Tromsø IL"
+                            "name": "Tromsø IL"
                         },
                         {
-                            "clubName": "Vålerenga Fotball"
+                            "name": "Vålerenga Fotball"
                         },
                         {
-                            "clubName": "Viking FK"
+                            "name": "Viking FK"
                         }
                     ],
-                    "leagueName": "ELITESERIEN"
+                    "name": "ELITESERIEN"
                 }
             ]
         },
         {
-            "countryName": "POLAND",
+            "name": "POLAND",
             "leagues": [
                 {
                     "clubs": [
                         {
-                            "clubName": "Bruk-Bet"
+                            "name": "Bruk-Bet"
                         },
                         {
-                            "clubName": "Cracovia"
+                            "name": "Cracovia"
                         },
                         {
-                            "clubName": "Górnik Łęczna "
+                            "name": "Górnik Łęczna "
                         },
                         {
-                            "clubName": "Górnik Zabrze"
+                            "name": "Górnik Zabrze"
                         },
                         {
-                            "clubName": "Jagiellonia"
+                            "name": "Jagiellonia"
                         },
                         {
-                            "clubName": "Lech Poznań"
+                            "name": "Lech Poznań"
                         },
                         {
-                            "clubName": "Lechia Gdańsk"
+                            "name": "Lechia Gdańsk"
                         },
                         {
-                            "clubName": "Legia Warszawa"
+                            "name": "Legia Warszawa"
                         },
                         {
-                            "clubName": "Piast Gliwice"
+                            "name": "Piast Gliwice"
                         },
                         {
-                            "clubName": "Pogoń Szczecin"
+                            "name": "Pogoń Szczecin"
                         },
                         {
-                            "clubName": "Radomiak Radom"
+                            "name": "Radomiak Radom"
                         },
                         {
-                            "clubName": "Raków"
+                            "name": "Raków"
                         },
                         {
-                            "clubName": "Stal Mielec"
+                            "name": "Stal Mielec"
                         },
                         {
-                            "clubName": "Śląsk Wrocław"
+                            "name": "Śląsk Wrocław"
                         },
                         {
-                            "clubName": "Warta Poznań"
+                            "name": "Warta Poznań"
                         },
                         {
-                            "clubName": "Wisła Kraków"
+                            "name": "Wisła Kraków"
                         },
                         {
-                            "clubName": "Wisła Płock"
+                            "name": "Wisła Płock"
                         },
                         {
-                            "clubName": "Zagłębie Lubin"
+                            "name": "Zagłębie Lubin"
                         }
                     ],
-                    "leagueName": "PKO EKSTRAKLASA"
+                    "name": "PKO EKSTRAKLASA"
                 }
             ]
         },
         {
-            "countryName": "PORTUGAL",
+            "name": "PORTUGAL",
             "leagues": [
                 {
                     "clubs": [
                         {
-                            "clubName": "Arouca"
+                            "name": "Arouca"
                         },
                         {
-                            "clubName": "Belenenses SAD"
+                            "name": "Belenenses SAD"
                         },
                         {
-                            "clubName": "Boavista FC"
+                            "name": "Boavista FC"
                         },
                         {
-                            "clubName": "CD Tondela"
+                            "name": "CD Tondela"
                         },
                         {
-                            "clubName": "Estoril Praia"
+                            "name": "Estoril Praia"
                         },
                         {
-                            "clubName": "FC Famalicão"
+                            "name": "FC Famalicão"
                         },
                         {
-                            "clubName": "FC Porto"
+                            "name": "FC Porto"
                         },
                         {
-                            "clubName": "FC Vizela"
+                            "name": "FC Vizela"
                         },
                         {
-                            "clubName": "Gil Vicente"
+                            "name": "Gil Vicente"
                         },
                         {
-                            "clubName": "Marítimo"
+                            "name": "Marítimo"
                         },
                         {
-                            "clubName": "Moreirense FC"
+                            "name": "Moreirense FC"
                         },
                         {
-                            "clubName": "Paços Ferreira"
+                            "name": "Paços Ferreira"
                         },
                         {
-                            "clubName": "Portimonense SC"
+                            "name": "Portimonense SC"
                         },
                         {
-                            "clubName": "Santa Clara"
+                            "name": "Santa Clara"
                         },
                         {
-                            "clubName": "SC Braga"
+                            "name": "SC Braga"
                         },
                         {
-                            "clubName": "SL Benfica"
+                            "name": "SL Benfica"
                         },
                         {
-                            "clubName": "Sporting CP"
+                            "name": "Sporting CP"
                         },
                         {
-                            "clubName": "Vitória SC"
+                            "name": "Vitória SC"
                         }
                     ],
-                    "leagueName": "LIGA PORTUGAL"
+                    "name": "LIGA PORTUGAL"
                 }
             ]
         },
         {
-            "countryName": "REPUBLIC OF IRELAND",
+            "name": "REPUBLIC OF IRELAND",
             "leagues": [
                 {
                     "clubs": [
                         {
-                            "clubName": "Bohemian FC"
+                            "name": "Bohemian FC"
                         },
                         {
-                            "clubName": "Derry City"
+                            "name": "Derry City"
                         },
                         {
-                            "clubName": "Drogheda United"
+                            "name": "Drogheda United"
                         },
                         {
-                            "clubName": "Dundalk"
+                            "name": "Dundalk"
                         },
                         {
-                            "clubName": "Finn Harps"
+                            "name": "Finn Harps"
                         },
                         {
-                            "clubName": "Longford Town"
+                            "name": "Longford Town"
                         },
                         {
-                            "clubName": "Shamrock Rovers"
+                            "name": "Shamrock Rovers"
                         },
                         {
-                            "clubName": "Sligo Rovers"
+                            "name": "Sligo Rovers"
                         },
                         {
-                            "clubName": "St. Pats"
+                            "name": "St. Pats"
                         },
                         {
-                            "clubName": "Waterford FC"
+                            "name": "Waterford FC"
                         }
                     ],
-                    "leagueName": "SSE AIRTRICITY PREMIER DIVISION"
+                    "name": "SSE AIRTRICITY PREMIER DIVISION"
                 }
             ]
         },
         {
-            "countryName": "ROMANIA",
+            "name": "ROMANIA",
             "leagues": [
                 {
                     "clubs": [
                         {
-                            "clubName": "Academica"
+                            "name": "Academica"
                         },
                         {
-                            "clubName": "AFC Chindia"
+                            "name": "AFC Chindia"
                         },
                         {
-                            "clubName": "CFR Cluj"
+                            "name": "CFR Cluj"
                         },
                         {
-                            "clubName": "CS Mioveni"
+                            "name": "CS Mioveni"
                         },
                         {
-                            "clubName": "Farul Constanța"
+                            "name": "Farul Constanța"
                         },
                         {
-                            "clubName": "FC Argeș"
+                            "name": "FC Argeș"
                         },
                         {
-                            "clubName": "FC Botoşani"
+                            "name": "FC Botoşani"
                         },
                         {
-                            "clubName": "FC Dinamo 1948"
+                            "name": "FC Dinamo 1948"
                         },
                         {
-                            "clubName": "FC Rapid"
+                            "name": "FC Rapid"
                         },
                         {
-                            "clubName": "FC U Craiova"
+                            "name": "FC U Craiova"
                         },
                         {
-                            "clubName": "FC Voluntari"
+                            "name": "FC Voluntari"
                         },
                         {
-                            "clubName": "FCSB"
+                            "name": "FCSB"
                         },
                         {
-                            "clubName": "Gaz Metan"
+                            "name": "Gaz Metan"
                         },
                         {
-                            "clubName": "Sepsi OSK"
+                            "name": "Sepsi OSK"
                         },
                         {
-                            "clubName": "Univ. Craiova"
+                            "name": "Univ. Craiova"
                         },
                         {
-                            "clubName": "UTA Arad"
+                            "name": "UTA Arad"
                         }
                     ],
-                    "leagueName": "LIGA I"
+                    "name": "LIGA I"
                 }
             ]
         },
         {
-            "countryName": "SAUDI ARABIA",
+            "name": "SAUDI ARABIA",
             "leagues": [
                 {
                     "clubs": [
                         {
-                            "clubName": "Abha Club"
+                            "name": "Abha Club"
                         },
                         {
-                            "clubName": "Al Ahli"
+                            "name": "Al Ahli"
                         },
                         {
-                            "clubName": "Al Batin"
+                            "name": "Al Batin"
                         },
                         {
-                            "clubName": "Al Faisaly"
+                            "name": "Al Faisaly"
                         },
                         {
-                            "clubName": "Al Fateh"
+                            "name": "Al Fateh"
                         },
                         {
-                            "clubName": "Al Fayha"
+                            "name": "Al Fayha"
                         },
                         {
-                            "clubName": "Al Hazem"
+                            "name": "Al Hazem"
                         },
                         {
-                            "clubName": "Al Hilal"
+                            "name": "Al Hilal"
                         },
                         {
-                            "clubName": "Al Ittihad"
+                            "name": "Al Ittihad"
                         },
                         {
-                            "clubName": "Al Nassr"
+                            "name": "Al Nassr"
                         },
                         {
-                            "clubName": "Al Raed"
+                            "name": "Al Raed"
                         },
                         {
-                            "clubName": "Al Shabab"
+                            "name": "Al Shabab"
                         },
                         {
-                            "clubName": "Al Taawoun"
+                            "name": "Al Taawoun"
                         },
                         {
-                            "clubName": "Al Tai"
+                            "name": "Al Tai"
                         },
                         {
-                            "clubName": "Damac FC"
+                            "name": "Damac FC"
                         },
                         {
-                            "clubName": "Ettifaq FC"
+                            "name": "Ettifaq FC"
                         }
                     ],
-                    "leagueName": "MBS PRO LEAGUE"
+                    "name": "MBS PRO LEAGUE"
                 }
             ]
         },
         {
-            "countryName": "SCOTLAND",
+            "name": "SCOTLAND",
             "leagues": [
                 {
                     "clubs": [
                         {
-                            "clubName": "Aberdeen"
+                            "name": "Aberdeen"
                         },
                         {
-                            "clubName": "Celtic"
+                            "name": "Celtic"
                         },
                         {
-                            "clubName": "Dundee FC"
+                            "name": "Dundee FC"
                         },
                         {
-                            "clubName": "Dundee United"
+                            "name": "Dundee United"
                         },
                         {
-                            "clubName": "Hearts"
+                            "name": "Hearts"
                         },
                         {
-                            "clubName": "Hibernian"
+                            "name": "Hibernian"
                         },
                         {
-                            "clubName": "Livingston"
+                            "name": "Livingston"
                         },
                         {
-                            "clubName": "Motherwell"
+                            "name": "Motherwell"
                         },
                         {
-                            "clubName": "Rangers"
+                            "name": "Rangers"
                         },
                         {
-                            "clubName": "Ross County"
+                            "name": "Ross County"
                         },
                         {
-                            "clubName": "St. Johnstone"
+                            "name": "St. Johnstone"
                         },
                         {
-                            "clubName": "St. Mirren"
+                            "name": "St. Mirren"
                         }
                     ],
-                    "leagueName": "CINCH PREMIERSHIP"
+                    "name": "CINCH PREMIERSHIP"
                 }
             ]
         },
         {
-            "countryName": "SPAIN",
+            "name": "SPAIN",
             "leagues": [
                 {
                     "clubs": [
                         {
-                            "clubName": "Athletic Club"
+                            "name": "Athletic Club"
                         },
                         {
-                            "clubName": "Atlético de Madrid"
+                            "name": "Atlético de Madrid"
                         },
                         {
-                            "clubName": "CA Osasuna"
+                            "name": "CA Osasuna"
                         },
                         {
-                            "clubName": "Cádiz CF"
+                            "name": "Cádiz CF"
                         },
                         {
-                            "clubName": "D. Alavés"
+                            "name": "D. Alavés"
                         },
                         {
-                            "clubName": "Elche CF"
+                            "name": "Elche CF"
                         },
                         {
-                            "clubName": "FC Barcelona"
+                            "name": "FC Barcelona"
                         },
                         {
-                            "clubName": "Getafe CF"
+                            "name": "Getafe CF"
                         },
                         {
-                            "clubName": "Granada CF"
+                            "name": "Granada CF"
                         },
                         {
-                            "clubName": "Levante UD"
+                            "name": "Levante UD"
                         },
                         {
-                            "clubName": "Rayo Vallecano"
+                            "name": "Rayo Vallecano"
                         },
                         {
-                            "clubName": "RC Celta"
+                            "name": "RC Celta"
                         },
                         {
-                            "clubName": "RCD Espanyol"
+                            "name": "RCD Espanyol"
                         },
                         {
-                            "clubName": "RCD Mallorca"
+                            "name": "RCD Mallorca"
                         },
                         {
-                            "clubName": "Real Betis"
+                            "name": "Real Betis"
                         },
                         {
-                            "clubName": "Real Madrid"
+                            "name": "Real Madrid"
                         },
                         {
-                            "clubName": "Real Sociedad"
+                            "name": "Real Sociedad"
                         },
                         {
-                            "clubName": "Sevilla FC"
+                            "name": "Sevilla FC"
                         },
                         {
-                            "clubName": "Valencia CF"
+                            "name": "Valencia CF"
                         },
                         {
-                            "clubName": "Villarreal CF"
+                            "name": "Villarreal CF"
                         }
                     ],
-                    "leagueName": "LALIGA SANTANDER"
+                    "name": "LALIGA SANTANDER"
                 },
                 {
                     "clubs": [
                         {
-                            "clubName": "AD Alcorcón"
+                            "name": "AD Alcorcón"
                         },
                         {
-                            "clubName": "Burgos CF"
+                            "name": "Burgos CF"
                         },
                         {
-                            "clubName": "CD Leganés"
+                            "name": "CD Leganés"
                         },
                         {
-                            "clubName": "CD Lugo"
+                            "name": "CD Lugo"
                         },
                         {
-                            "clubName": "CD Mirandés"
+                            "name": "CD Mirandés"
                         },
                         {
-                            "clubName": "CD Tenerife"
+                            "name": "CD Tenerife"
                         },
                         {
-                            "clubName": "CF Fuenlabrada"
+                            "name": "CF Fuenlabrada"
                         },
                         {
-                            "clubName": "FC Cartagena"
+                            "name": "FC Cartagena"
                         },
                         {
-                            "clubName": "Girona FC"
+                            "name": "Girona FC"
                         },
                         {
-                            "clubName": "Málaga CF"
+                            "name": "Málaga CF"
                         },
                         {
-                            "clubName": "R. Oviedo"
+                            "name": "R. Oviedo"
                         },
                         {
-                            "clubName": "R. Sporting"
+                            "name": "R. Sporting"
                         },
                         {
-                            "clubName": "R. Valladolid CF"
+                            "name": "R. Valladolid CF"
                         },
                         {
-                            "clubName": "R. Zaragoza"
+                            "name": "R. Zaragoza"
                         },
                         {
-                            "clubName": "Real Sociedad B"
+                            "name": "Real Sociedad B"
                         },
                         {
-                            "clubName": "SD Amorebieta"
+                            "name": "SD Amorebieta"
                         },
                         {
-                            "clubName": "SD Eibar"
+                            "name": "SD Eibar"
                         },
                         {
-                            "clubName": "SD Huesca"
+                            "name": "SD Huesca"
                         },
                         {
-                            "clubName": "SD Ponferradina"
+                            "name": "SD Ponferradina"
                         },
                         {
-                            "clubName": "UD Almería"
+                            "name": "UD Almería"
                         },
                         {
-                            "clubName": "UD Ibiza"
+                            "name": "UD Ibiza"
                         },
                         {
-                            "clubName": "UD Las Palmas"
+                            "name": "UD Las Palmas"
                         }
                     ],
-                    "leagueName": "LALIGA SMARTBANK"
+                    "name": "LALIGA SMARTBANK"
                 }
             ]
         },
         {
-            "countryName": "SWEDEN",
+            "name": "SWEDEN",
             "leagues": [
                 {
                     "clubs": [
                         {
-                            "clubName": "AIK"
+                            "name": "AIK"
                         },
                         {
-                            "clubName": "BK Häcken"
+                            "name": "BK Häcken"
                         },
                         {
-                            "clubName": "Degerfors IF"
+                            "name": "Degerfors IF"
                         },
                         {
-                            "clubName": "Djurgårdens IF"
+                            "name": "Djurgårdens IF"
                         },
                         {
-                            "clubName": "Halmstads BK"
+                            "name": "Halmstads BK"
                         },
                         {
-                            "clubName": "Hammarby IF"
+                            "name": "Hammarby IF"
                         },
                         {
-                            "clubName": "IF Elfsborg"
+                            "name": "IF Elfsborg"
                         },
                         {
-                            "clubName": "IFK Göteborg"
+                            "name": "IFK Göteborg"
                         },
                         {
-                            "clubName": "IFK Norrköping"
+                            "name": "IFK Norrköping"
                         },
                         {
-                            "clubName": "IK Sirius"
+                            "name": "IK Sirius"
                         },
                         {
-                            "clubName": "Kalmar FF"
+                            "name": "Kalmar FF"
                         },
                         {
-                            "clubName": "Malmö FF"
+                            "name": "Malmö FF"
                         },
                         {
-                            "clubName": "Mjällby AIF"
+                            "name": "Mjällby AIF"
                         },
                         {
-                            "clubName": "Örebro SK"
+                            "name": "Örebro SK"
                         },
                         {
-                            "clubName": "Östersunds FK"
+                            "name": "Östersunds FK"
                         },
                         {
-                            "clubName": "Varbergs BoIS"
+                            "name": "Varbergs BoIS"
                         }
                     ],
-                    "leagueName": "ALLSVENSKAN"
+                    "name": "ALLSVENSKAN"
                 }
             ]
         },
         {
-            "countryName": "SWITZERLAND",
+            "name": "SWITZERLAND",
             "leagues": [
                 {
                     "clubs": [
                         {
-                            "clubName": "BSC Young Boys"
+                            "name": "BSC Young Boys"
                         },
                         {
-                            "clubName": "FC Basel 1893"
+                            "name": "FC Basel 1893"
                         },
                         {
-                            "clubName": "FC Lugano"
+                            "name": "FC Lugano"
                         },
                         {
-                            "clubName": "FC Luzern"
+                            "name": "FC Luzern"
                         },
                         {
-                            "clubName": "FC Sion"
+                            "name": "FC Sion"
                         },
                         {
-                            "clubName": "FC St. Gallen"
+                            "name": "FC St. Gallen"
                         },
                         {
-                            "clubName": "FC Zürich"
+                            "name": "FC Zürich"
                         },
                         {
-                            "clubName": "Grasshopper Club"
+                            "name": "Grasshopper Club"
                         },
                         {
-                            "clubName": "Lausanne-Sport"
+                            "name": "Lausanne-Sport"
                         },
                         {
-                            "clubName": "Servette FC"
+                            "name": "Servette FC"
                         }
                     ],
-                    "leagueName": "CREDIT SUISSE SUPER LEAGUE"
+                    "name": "CREDIT SUISSE SUPER LEAGUE"
                 }
             ]
         },
         {
-            "countryName": "TURKEY",
+            "name": "TURKEY",
             "leagues": [
                 {
                     "clubs": [
                         {
-                            "clubName": "Adana Demirspor"
+                            "name": "Adana Demirspor"
                         },
                         {
-                            "clubName": "Alanyaspor"
+                            "name": "Alanyaspor"
                         },
                         {
-                            "clubName": "Altay SK"
+                            "name": "Altay SK"
                         },
                         {
-                            "clubName": "Antalyaspor"
+                            "name": "Antalyaspor"
                         },
                         {
-                            "clubName": "Başakşehir"
+                            "name": "Başakşehir"
                         },
                         {
-                            "clubName": "Beşiktaş"
+                            "name": "Beşiktaş"
                         },
                         {
-                            "clubName": "Çaykur Rizespor"
+                            "name": "Çaykur Rizespor"
                         },
                         {
-                            "clubName": "Fenerbahçe"
+                            "name": "Fenerbahçe"
                         },
                         {
-                            "clubName": "Galatasaray"
+                            "name": "Galatasaray"
                         },
                         {
-                            "clubName": "Gaziantep"
+                            "name": "Gaziantep"
                         },
                         {
-                            "clubName": "Giresunspor"
+                            "name": "Giresunspor"
                         },
                         {
-                            "clubName": "Göztepe"
+                            "name": "Göztepe"
                         },
                         {
-                            "clubName": "Hatayspor"
+                            "name": "Hatayspor"
                         },
                         {
-                            "clubName": "Karagümrük SK"
+                            "name": "Karagümrük SK"
                         },
                         {
-                            "clubName": "Kasımpaşa"
+                            "name": "Kasımpaşa"
                         },
                         {
-                            "clubName": "Kayserispor"
+                            "name": "Kayserispor"
                         },
                         {
-                            "clubName": "Konyaspor"
+                            "name": "Konyaspor"
                         },
                         {
-                            "clubName": "Sivasspor"
+                            "name": "Sivasspor"
                         },
                         {
-                            "clubName": "Trabzonspor"
+                            "name": "Trabzonspor"
                         },
                         {
-                            "clubName": "Yeni Malatyaspor"
+                            "name": "Yeni Malatyaspor"
                         }
                     ],
-                    "leagueName": "SÜPER LİG"
+                    "name": "SÜPER LİG"
                 }
             ]
         },
         {
-            "countryName": "USA/CANADA",
+            "name": "USA/CANADA",
             "leagues": [
                 {
                     "clubs": [
                         {
-                            "clubName": "Atlanta United"
+                            "name": "Atlanta United"
                         },
                         {
-                            "clubName": "Austin FC"
+                            "name": "Austin FC"
                         },
                         {
-                            "clubName": "CF Montréal"
+                            "name": "CF Montréal"
                         },
                         {
-                            "clubName": "Chicago Fire FC"
+                            "name": "Chicago Fire FC"
                         },
                         {
-                            "clubName": "Colorado Rapids"
+                            "name": "Colorado Rapids"
                         },
                         {
-                            "clubName": "Columbus Crew"
+                            "name": "Columbus Crew"
                         },
                         {
-                            "clubName": "D.C. United"
+                            "name": "D.C. United"
                         },
                         {
-                            "clubName": "FC Cincinnati"
+                            "name": "FC Cincinnati"
                         },
                         {
-                            "clubName": "FC Dallas"
+                            "name": "FC Dallas"
                         },
                         {
-                            "clubName": "Houston Dynamo"
+                            "name": "Houston Dynamo"
                         },
                         {
-                            "clubName": "Inter Miami CF"
+                            "name": "Inter Miami CF"
                         },
                         {
-                            "clubName": "LA Galaxy"
+                            "name": "LA Galaxy"
                         },
                         {
-                            "clubName": "LAFC"
+                            "name": "LAFC"
                         },
                         {
-                            "clubName": "Minnesota United"
+                            "name": "Minnesota United"
                         },
                         {
-                            "clubName": "Nashville SC"
+                            "name": "Nashville SC"
                         },
                         {
-                            "clubName": "New England"
+                            "name": "New England"
                         },
                         {
-                            "clubName": "New York City FC"
+                            "name": "New York City FC"
                         },
                         {
-                            "clubName": "Orlando City"
+                            "name": "Orlando City"
                         },
                         {
-                            "clubName": "Philadelphia"
+                            "name": "Philadelphia"
                         },
                         {
-                            "clubName": "Portland Timbers"
+                            "name": "Portland Timbers"
                         },
                         {
-                            "clubName": "Real Salt Lake"
+                            "name": "Real Salt Lake"
                         },
                         {
-                            "clubName": "Red Bulls"
+                            "name": "Red Bulls"
                         },
                         {
-                            "clubName": "SJ Earthquakes"
+                            "name": "SJ Earthquakes"
                         },
                         {
-                            "clubName": "Sounders FC"
+                            "name": "Sounders FC"
                         },
                         {
-                            "clubName": "Sporting KC"
+                            "name": "Sporting KC"
                         },
                         {
-                            "clubName": "Toronto FC"
+                            "name": "Toronto FC"
                         },
                         {
-                            "clubName": "Whitecaps FC"
+                            "name": "Whitecaps FC"
                         }
                     ],
-                    "leagueName": "MLS"
+                    "name": "MLS"
                 }
             ]
         }
     ],
-    "national": [],
-    "organizations": [],
-    "other": []
+    "national": [
+        {
+            "name": "MEN'S NATIONAL",
+            "clubs": [
+                {
+                    "name": "Argentina"
+                },
+                {
+                    "name": "Australia"
+                },
+                {
+                    "name": "Austria"
+                },
+                {
+                    "name": "Belgium"
+                },
+                {
+                    "name": "Brazil (Authentic kits and badges, generic players)"
+                },
+                {
+                    "name": "Canada"
+                },
+                {
+                    "name": "China PR"
+                },
+                {
+                    "name": "Czech Republic"
+                },
+                {
+                    "name": "Denmark"
+                },
+                {
+                    "name": "England"
+                },
+                {
+                    "name": "Finland"
+                },
+                {
+                    "name": "France"
+                },
+                {
+                    "name": "Germany"
+                },
+                {
+                    "name": "Greece"
+                },
+                {
+                    "name": "Hungary"
+                },
+                {
+                    "name": "Iceland"
+                },
+                {
+                    "name": "Ireland"
+                },
+                {
+                    "name": "Italy"
+                },
+                {
+                    "name": "Mexico"
+                },
+                {
+                    "name": "Netherlands"
+                },
+                {
+                    "name": "New Zealand"
+                },
+                {
+                    "name": "Northern Ireland"
+                },
+                {
+                    "name": "Norway"
+                },
+                {
+                    "name": "Poland"
+                },
+                {
+                    "name": "Portugal"
+                },
+                {
+                    "name": "Romania"
+                },
+                {
+                    "name": "Russia"
+                },
+                {
+                    "name": "Scotland"
+                },
+                {
+                    "name": "Spain"
+                },
+                {
+                    "name": "Sweden"
+                },
+                {
+                    "name": "Ukraine"
+                },
+                {
+                    "name": "United States"
+                },
+                {
+                    "name": "Wales"
+                }
+            ]
+        },
+        {
+            "name": "WOMEN'S NATIONAL",
+            "clubs": [
+                {
+                    "name": "Australia"
+                },
+                {
+                    "name": "Belgium"
+                },
+                {
+                    "name": "Brazil (Authentic kit and crest with generic players)"
+                },
+                {
+                    "name": "Canada"
+                },
+                {
+                    "name": "China PR"
+                },
+                {
+                    "name": "England"
+                },
+                {
+                    "name": "France"
+                },
+                {
+                    "name": "Germany"
+                },
+                {
+                    "name": "Mexico"
+                },
+                {
+                    "name": "Netherlands"
+                },
+                {
+                    "name": "New Zealand"
+                },
+                {
+                    "name": "Norway"
+                },
+                {
+                    "name": "Portugal"
+                },
+                {
+                    "name": "Scotland"
+                },
+                {
+                    "name": "Spain"
+                },
+                {
+                    "name": "Sweden"
+                },
+                {
+                    "name": "United States"
+                }
+            ]
+        }
+    ],
+    "organizations": [
+        {
+            "name": "CONMEBOL",
+            "leagues": [
+                {
+                    "clubs": [
+                        {
+                            "name": "Always Ready"
+                        },
+                        {
+                            "name": "América de Cali"
+                        },
+                        {
+                            "name": "Argentinos Jrs."
+                        },
+                        {
+                            "name": "Atl. Nacional"
+                        },
+                        {
+                            "name": "Atlético Mineiro (Authentic kit and crest with generic players)"
+                        },
+                        {
+                            "name": "Barcelona SC"
+                        },
+                        {
+                            "name": "Boca Juniors"
+                        },
+                        {
+                            "name": "Cerro Porteño"
+                        },
+                        {
+                            "name": "Defensa"
+                        },
+                        {
+                            "name": "Dep. La Guaira"
+                        },
+                        {
+                            "name": "Dep. Táchira"
+                        },
+                        {
+                            "name": "Flamengo (Authentic kit and crest with generic players)"
+                        },
+                        {
+                            "name": "Fluminense (Authentic kit and crest with generic players)"
+                        },
+                        {
+                            "name": "Independiente DV"
+                        },
+                        {
+                            "name": "Internacional (Authentic kit and crest with generic players)"
+                        },
+                        {
+                            "name": "Junior"
+                        },
+                        {
+                            "name": "LDU Quito"
+                        },
+                        {
+                            "name": "Nacional"
+                        },
+                        {
+                            "name": "Olimpia"
+                        },
+                        {
+                            "name": "Palmeiras (Authentic kit and crest with generic players)"
+                        },
+                        {
+                            "name": "Racing Club"
+                        },
+                        {
+                            "name": "Rentistas"
+                        },
+                        {
+                            "name": "River Plate"
+                        },
+                        {
+                            "name": "Santa Fe"
+                        },
+                        {
+                            "name": "Santos (Authentic kit and crest with generic players)"
+                        },
+                        {
+                            "name": "São Paulo (Authentic kit and crest with generic players)"
+                        },
+                        {
+                            "name": "Sporting Cristal"
+                        },
+                        {
+                            "name": "The Strongest"
+                        },
+                        {
+                            "name": "Uni. Católica"
+                        },
+                        {
+                            "name": "Unión La Calera"
+                        },
+                        {
+                            "name": "Universitario"
+                        },
+                        {
+                            "name": "Vélez Sarsfield"
+                        }
+                    ],
+                    "name": "CONMEBOL LIBERTADORES"
+                },
+                {
+                    "clubs": [
+                        {
+                            "name": "12 de Octubre"
+                        },
+                        {
+                            "name": "Antofagasta"
+                        },
+                        {
+                            "name": "Aragua FC"
+                        },
+                        {
+                            "name": "Arsenal"
+                        },
+                        {
+                            "name": "Athletico-PR (Authentic kit and crest with generic players)"
+                        },
+                        {
+                            "name": "Atl. Palmaflor"
+                        },
+                        {
+                            "name": "Atlético-GO (Authentic kit and crest with generic players)"
+                        },
+                        {
+                            "name": "Aucas"
+                        },
+                        {
+                            "name": "Bahia (Authentic kit and crest with generic players)"
+                        },
+                        {
+                            "name": "Bolívar"
+                        },
+                        {
+                            "name": "C.A. Mannucci"
+                        },
+                        {
+                            "name": "Ceará SC (Authentic kit and crest with generic players)"
+                        },
+                        {
+                            "name": "Cerro Largo"
+                        },
+                        {
+                            "name": "Club Nacional"
+                        },
+                        {
+                            "name": "Cobresal"
+                        },
+                        {
+                            "name": "Corinthians (Authentic kit and crest with generic players)"
+                        },
+                        {
+                            "name": "CS Emelec"
+                        },
+                        {
+                            "name": "Deportes Tolima"
+                        },
+                        {
+                            "name": "Deportivo Cali"
+                        },
+                        {
+                            "name": "Deportivo Pasto"
+                        },
+                        {
+                            "name": "FBC Melgar"
+                        },
+                        {
+                            "name": "Fénix"
+                        },
+                        {
+                            "name": "Grêmio (Authentic kit and crest with generic players)"
+                        },
+                        {
+                            "name": "Guabirá"
+                        },
+                        {
+                            "name": "Guaireña"
+                        },
+                        {
+                            "name": "Guayaquil City"
+                        },
+                        {
+                            "name": "Huachipato FC"
+                        },
+                        {
+                            "name": "Independiente"
+                        },
+                        {
+                            "name": "La Equidad"
+                        },
+                        {
+                            "name": "Lanús"
+                        },
+                        {
+                            "name": "Libertad"
+                        },
+                        {
+                            "name": "Macará"
+                        },
+                        {
+                            "name": "Montevideo City Torque"
+                        },
+                        {
+                            "name": "Metropolitanos"
+                        },
+                        {
+                            "name": "Mineros"
+                        },
+                        {
+                            "name": "Nacional Potosí"
+                        },
+                        {
+                            "name": "Newell’s"
+                        },
+                        {
+                            "name": "Palestino"
+                        },
+                        {
+                            "name": "Peñarol"
+                        },
+                        {
+                            "name": "Puerto Cabello"
+                        },
+                        {
+                            "name": "RB Bragantino (Authentic kit and crest with generic players)"
+                        },
+                        {
+                            "name": "River Plate"
+                        },
+                        {
+                            "name": "Rosario Central"
+                        },
+                        {
+                            "name": "San Lorenzo"
+                        },
+                        {
+                            "name": "Sport Huancayo"
+                        },
+                        {
+                            "name": "Talleres"
+                        },
+                        {
+                            "name": "UTC"
+                        },
+                        {
+                            "name": "Wilstermann"
+                        }
+                    ],
+                    "name": "CONMEBOL SUDAMERICANA"
+                }
+            ]
+        }
+    ],
+    "other": [
+        {
+            "name": "REST OF WORLD",
+            "clubs": [
+                {
+                    "name": "AC Monza"
+                },
+                {
+                    "name": "AEK Athens"
+                },
+                {
+                    "name": "Al Ain FC"
+                },
+                {
+                    "name": "Apoel FC"
+                },
+                {
+                    "name": "Benevento"
+                },
+                {
+                    "name": "Crotone"
+                },
+                {
+                    "name": "CSKA Moscow"
+                },
+                {
+                    "name": "Dinamo Zagreb"
+                },
+                {
+                    "name": "Dynamo Kyiv"
+                },
+                {
+                    "name": "Ferencvárosi TC"
+                },
+                {
+                    "name": "Hajduk Split"
+                },
+                {
+                    "name": "HJK Helsinki"
+                },
+                {
+                    "name": "Kaizer Chiefs"
+                },
+                {
+                    "name": "Lecce"
+                },
+                {
+                    "name": "Lokomotiv Moscow"
+                },
+                {
+                    "name": "Olympiacos CFP"
+                },
+                {
+                    "name": "Orlando Pirates"
+                },
+                {
+                    "name": "Panathinaikos"
+                },
+                {
+                    "name": "Parma"
+                },
+                {
+                    "name": "PAOK"
+                },
+                {
+                    "name": "Shakhtar Donetsk"
+                },
+                {
+                    "name": "Slavia Praha"
+                },
+                {
+                    "name": "Sparta Praha"
+                },
+                {
+                    "name": "Spartak Moscow"
+                },
+                {
+                    "name": "Viktoria Plzeň"
+                },
+                {
+                    "name": "Wrexham AFC"
+                },
+                {
+                    "name": "Soccer Aid"
+                },
+                {
+                    "name": "adidas All-Star"
+                },
+                {
+                    "name": "MLS All Stars"
+                }
+            ]
+        }
+    ]
 }

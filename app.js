@@ -4,7 +4,6 @@ async function readFifaTeams() {
     try {
         const data = await fs.readFile('./input/playground.txt', { encoding: 'utf8' });
         const array = data.split('\n');
-        console.log(array);
 
         let output = {
             countries: [],
@@ -52,7 +51,7 @@ function parseNonLeagueSection(section, name) {
     };
 
     while (section.length > 0) {
-        const club = { clubName: section.shift() };
+        const club = { name: section.shift() };
         nonLeagueSection.clubs.push(club);
     }
 
@@ -66,7 +65,7 @@ function parseNonLeagueSection(section, name) {
  */
 function parseCountrySection(section, name) {
     let country = {
-        countryName: name,
+        name: name,
         leagues: []
     };
     
@@ -80,7 +79,7 @@ function parseCountrySection(section, name) {
         const element = section.shift();
 
         if (nextIsLeagueName) {
-            currentLeague.leagueName = element;
+            currentLeague.name = element;
             nextIsLeagueName = false;
         } else if (element === ' ') {
             nextIsLeagueName = true;
@@ -89,7 +88,7 @@ function parseCountrySection(section, name) {
                 clubs: []
             };
         } else {
-            const club = { clubName: element };
+            const club = { name: element };
             currentLeague.clubs.push(club);
         }
     }
