@@ -1,0 +1,885 @@
+ARGENTINA
+LIGA PROFESIONAL DE FÚTBOL
+Aldosivi
+Argentinos Jrs.
+Arsenal
+Atlético Tucumán
+Banfield
+Boca Juniors
+Central Córdoba
+Colón
+Defensa
+Estudiantes
+Gimnasia
+Godoy Cruz
+Huracán
+Independiente
+Lanús
+Newell's
+Patronato
+Platense
+Racing Club
+River Plate
+Rosario Central
+San Lorenzo
+Sarmiento
+Talleres
+Unión
+Vélez Sarsfield
+ -
+AUSTRALIA
+A-LEAGUE
+Adelaide United
+Brisbane Roar
+Central Coast
+Macarthur FC
+Melb. Victory
+Melbourne City
+Newcastle Jets
+Perth Glory
+Sydney FC
+Well. Phoenix
+Western United
+WS Wanderers
+ -
+AUSTRIA
+Ö. BUNDESLIGA
+Admira Wacker
+Austria Klagenfurt
+FK Austria Wien
+LASK
+RB Salzburg
+SCR Altach
+SK Rapid Wien
+SK Sturm Graz
+SV Ried
+TSV Hartberg
+Wolfsberger AC
+WSG Tirol
+ -
+BELGIUM
+1A PRO LEAGUE
+Cercle Brugge
+Club Brugge
+K Beerschot VA
+KAA Gent
+KAS Eupen
+KRC Genk
+KV Kortrijk
+KV Mechelen
+KV Oostende
+OH Leuven
+RFC Seraing
+Royal Antwerp FC
+RSC Anderlecht
+Sint-Truiden
+Sp. Charleroi
+Standard Liège
+Union SG
+Zulte Waregem
+ -
+BRAZIL
+LIGA DO BRASIL
+Athletico-PR
+Atlético Mineiro
+Atlético-GO
+Bahia
+Ceará SC
+Chapecoense
+Cuiabá
+Fluminense
+Fortaleza
+Grêmio
+Internacional
+Juventude
+Santos
+ -
+CHINA
+CSL
+Beijing Guoan
+Cangzhou Lions
+Changchun Yatai
+Chongqing LJ Ath
+Dalian Pro
+Guangzhou City
+Guangzhou FC
+Hebei FC
+Henan Songshan
+Qingdao FC
+Shandong Taishan
+Shanghai Port
+Shanghai Shenhua
+Shenzhen FC
+Tianjin JMT
+Wuhan FC
+ -
+DENMARK
+3F SUPERLIGA
+Aalborg BK
+Aarhus AGF
+Brøndby IF
+F.C. København
+FC Midtjylland
+FC Nordsjælland
+Odense BK
+Randers FC
+Silkeborg IF
+SønderjyskE
+Vejle Boldklub
+Viborg FF
+ -
+ENGLAND
+PREMIER LEAGUE
+Arsenal
+Aston Villa
+Brentford
+Brighton
+Burnley
+Chelsea
+Crystal Palace
+Everton
+Leeds United
+Leicester City
+Liverpool
+Manchester City
+Manchester Utd
+Newcastle Utd
+Norwich
+Southampton
+Spurs
+Watford
+West Ham
+Wolves
+ 
+EFL CHAMPIONSHIP
+AFC Bournemouth
+Barnsley
+Birmingham City
+Blackburn Rovers
+Blackpool
+Bristol City
+Cardiff City
+Coventry City
+Derby County
+Fulham
+Huddersfield
+Hull City
+Luton Town
+Middlesbrough
+Millwall
+Nott'm Forest
+Peterborough
+Preston
+QPR
+Reading
+Sheffield Utd
+Stoke City
+Swansea City
+West Brom
+ 
+EFL LEAGUE ONE
+Accrington
+AFC Wimbledon
+Bolton
+Burton Albion
+Cambridge Utd
+Charlton Ath
+Cheltenham Town
+Crewe Alexandra
+Doncaster
+Fleetwood Town
+Gillingham
+Ipswich
+Lincoln City
+MK Dons
+Morecambe
+Oxford United
+Plymouth Argyle
+Portsmouth
+Rotherham Utd
+Sheffield Wed
+Shrewsbury
+Sunderland
+Wigan Athletic
+Wycombe
+ 
+EFL LEAGUE TWO
+Barrow
+Bradford City
+Bristol Rovers
+Carlisle United
+Colchester
+Crawley Town
+Exeter City
+Forest Green
+Harrogate Town
+Hartlepool
+Leyton Orient
+Mansfield Town
+Newport County
+Northampton
+Oldham Athletic
+Port Vale
+Rochdale
+Salford City
+Scunthorpe Utd
+Stevenage
+Sutton United
+Swindon Town
+Tranmere Rovers
+Walsall
+ -
+FRANCE
+LIGUE 1 UBER EATS
+Angers SCO
+AS Monaco
+AS Saint-Étienne
+Bordeaux
+Clermont Foot 63
+ESTAC Troyes
+FC Lorient
+FC Metz
+FC Nantes
+LOSC Lille
+Montpellier
+OGC Nice
+OL
+OM
+Paris SG
+RC Lens
+Stade Brestois 29
+Stade de Reims
+Stade Rennais FC
+Strasbourg
+ 
+LIGUE 2 BKT
+AC Ajaccio
+AJ Auxerre
+Amiens SC
+AS Nancy Lorraine
+Dijon FCO
+En Avant Guingamp
+FCSM
+Grenoble Foot 38
+Havre AC
+Niort
+Nîmes Olympique
+Paris FC
+Pau FC
+Quevilly Rouen
+Rodez AF
+SC Bastia
+SM Caen
+Toulouse FC
+USL Dunkerque
+Valenciennes FC
+ -
+GERMANY
+BUNDESLIGA
+1. FC Köln
+1. FSV Mainz 05
+Arminia Bielefeld
+Borussia Dortmund
+FC Augsburg
+FC Bayern München
+Frankfurt
+Fürth
+Hertha Berlin
+Leverkusen
+M'gladbach
+RB Leipzig
+SC Freiburg
+TSG Hoffenheim
+Union Berlin
+VfB Stuttgart
+VfL Bochum
+VfL Wolfsburg
+ 
+BUNDESLIGA 2
+1. FC Nürnberg
+Düsseldorf
+Dynamo Dresden
+FC Erzgebirge Aue
+FC Ingolstadt 04
+FC Schalke 04
+FC St. Pauli
+Hamburger SV
+Hannover 96
+Heidenheim
+Holstein Kiel
+Karlsruher SC
+Regensburg
+Rostock
+SC Paderborn 07
+SV Darmstadt 98
+SV Sandhausen
+SV Werder Bremen
+ 
+3. LIGA
+1. FC Magdeburg
+1860 München
+B. Dortmund II
+Braunschweig
+FSV Zwickau
+Hallescher FC
+Kaiserslautern
+MSV Duisburg
+Saarbrücken
+SC Freiburg II
+SC Verl
+SV Meppen
+SV Waldhof
+SVWW
+TSV Havelse
+Türkgücü
+VfL Osnabrück
+Viktoria Berlin
+Viktoria Köln
+Würzburg
+ -
+INDIA
+HERO ISL
+ATK Mohun Bagan
+Bengaluru FC
+Chennaiyin FC
+FC Goa
+Hyderabad FC
+Jamshedpur FC
+Kerala Blasters
+Mumbai City FC
+NorthEast United
+Odisha FC
+SC East Bengal
+ -
+ITALY
+SERIE A TIM
+Bergamo Calcio**
+Bologna
+Cagliari
+Empoli
+Fiorentina
+Genoa
+Hellas Verona
+Inter
+Latium**
+Milan
+Napoli
+Piemonte Calcio**
+Roma FC**
+Salernitana
+Sampdoria
+Sassuolo
+Spezia
+Torino
+Udinese
+Venezia
+ -
+JAPAN
+MEIJI YASUDA J1
+Avispa Fukuoka
+Cerezo Osaka
+F.C. Tokyo
+Gamba Osaka
+H.Consa.Sapporo
+Kashima Antlers
+Kashiwa Reysol
+Kawasaki Frontale
+Nagoya Grampus
+Oita Trinita
+S-Hiroshima
+Sagan Tosu
+Shimizu S-Pulse
+Shonan Bellmare
+Tokushima Vortis
+Urawa Reds
+Vegalta Sendai
+Vissel Kobe
+Yokohama F･M
+Yokohama FC
+ -
+KOREA REPUBLIC
+K LEAGUE 1
+Daegu FC
+FC Seoul
+Gangwon FC
+GwangJu FC
+Incheon United
+Jeju United
+Jeonbuk Hyundai
+Pohang Steelers
+Seongnam FC
+Suwon FC
+Suwon Samsung
+Ulsan Hyundai
+ -
+MEN'S NATIONAL
+Argentina
+Australia
+Austria
+Belgium
+Brazil (Authentic kits and badges, generic players)
+Canada
+China PR
+Czech Republic
+Denmark
+England
+Finland
+France
+Germany
+Greece
+Hungary
+Iceland
+Ireland
+Italy
+Mexico
+Netherlands
+New Zealand
+Northern Ireland
+Norway
+Poland
+Portugal
+Romania
+Russia
+Scotland
+Spain
+Sweden
+Ukraine
+United States
+Wales
+ -
+MEXICO
+LIGA BBVA MX
+América
+Atlas
+Atlético de San Luis
+CF Monterrey
+Cruz Azul
+FC Juárez
+Guadalajara
+León
+Mazatlán FC
+Necaxa
+Pachuca
+Puebla
+Pumas
+Querétaro
+Santos Laguna
+Tigres
+Tijuana
+Toluca
+ -
+NETHERLANDS
+EREDIVISIE
+Ajax
+AZ
+FC Groningen
+FC Twente
+FC Utrecht
+Feyenoord
+Fortuna Sittard
+Go Ahead Eagles
+Heracles Almelo
+N.E.C. Nijmegen
+PEC Zwolle
+PSV
+RKC Waalwijk
+SC Heerenveen
+SC Cambuur
+Sparta Rotterdam
+Vitesse
+Willem II
+ -
+NORWAY
+ELITESERIEN
+FK Bodø/Glimt
+FK Haugesund
+Kristiansund
+Lillestrøm SK
+Mjøndalen IF
+Molde FK
+Odds BK
+Rosenborg BK
+Sandefjord
+Sarpsborg 08
+SK Brann
+Stabæk Fotball
+Strømsgodset IF
+Tromsø IL
+Vålerenga Fotball
+Viking FK
+ -
+POLAND
+PKO EKSTRAKLASA
+Bruk-Bet
+Cracovia
+Górnik Łęczna 
+Górnik Zabrze
+Jagiellonia
+Lech Poznań
+Lechia Gdańsk
+Legia Warszawa
+Piast Gliwice
+Pogoń Szczecin
+Radomiak Radom
+Raków
+Stal Mielec
+Śląsk Wrocław
+Warta Poznań
+Wisła Kraków
+Wisła Płock
+Zagłębie Lubin
+ -
+PORTUGAL
+LIGA PORTUGAL
+Arouca
+Belenenses SAD
+Boavista FC
+CD Tondela
+Estoril Praia
+FC Famalicão
+FC Porto
+FC Vizela
+Gil Vicente
+Marítimo
+Moreirense FC
+Paços Ferreira
+Portimonense SC
+Santa Clara
+SC Braga
+SL Benfica
+Sporting CP
+Vitória SC
+ -
+REPUBLIC OF IRELAND
+SSE AIRTRICITY PREMIER DIVISION
+Bohemian FC
+Derry City
+Drogheda United
+Dundalk
+Finn Harps
+Longford Town
+Shamrock Rovers
+Sligo Rovers
+St. Pats
+Waterford FC
+ -
+REST OF WORLD
+AC Monza
+AEK Athens
+Al Ain FC
+Apoel FC
+Benevento
+Crotone
+CSKA Moscow
+Dinamo Zagreb
+Dynamo Kyiv
+Ferencvárosi TC
+Hajduk Split
+HJK Helsinki
+Kaizer Chiefs
+Lecce
+Lokomotiv Moscow
+Olympiacos CFP
+Orlando Pirates
+Panathinaikos
+Parma
+PAOK
+Shakhtar Donetsk
+Slavia Praha
+Sparta Praha
+Spartak Moscow
+Viktoria Plzeň
+Wrexham AFC
+Soccer Aid
+adidas All-Star
+MLS All Stars
+ -
+ROMANIA
+LIGA I
+Academica
+AFC Chindia
+CFR Cluj
+CS Mioveni
+Farul Constanța
+FC Argeș
+FC Botoşani
+FC Dinamo 1948
+FC Rapid
+FC U Craiova
+FC Voluntari
+FCSB
+Gaz Metan
+Sepsi OSK
+Univ. Craiova
+UTA Arad
+ -
+SAUDI ARABIA
+MBS PRO LEAGUE
+Abha Club
+Al Ahli
+Al Batin
+Al Faisaly
+Al Fateh
+Al Fayha
+Al Hazem
+Al Hilal
+Al Ittihad
+Al Nassr
+Al Raed
+Al Shabab
+Al Taawoun
+Al Tai
+Damac FC
+Ettifaq FC
+ -
+SCOTLAND
+CINCH PREMIERSHIP
+Aberdeen
+Celtic
+Dundee FC
+Dundee United
+Hearts
+Hibernian
+Livingston
+Motherwell
+Rangers
+Ross County
+St. Johnstone
+St. Mirren
+ -
+SPAIN
+LALIGA SANTANDER
+Athletic Club
+Atlético de Madrid
+CA Osasuna
+Cádiz CF
+D. Alavés
+Elche CF
+FC Barcelona
+Getafe CF
+Granada CF
+Levante UD
+Rayo Vallecano
+RC Celta
+RCD Espanyol
+RCD Mallorca
+Real Betis
+Real Madrid
+Real Sociedad
+Sevilla FC
+Valencia CF
+Villarreal CF
+ 
+LALIGA SMARTBANK
+AD Alcorcón
+Burgos CF
+CD Leganés
+CD Lugo
+CD Mirandés
+CD Tenerife
+CF Fuenlabrada
+FC Cartagena
+Girona FC
+Málaga CF
+R. Oviedo
+R. Sporting
+R. Valladolid CF
+R. Zaragoza
+Real Sociedad B
+SD Amorebieta
+SD Eibar
+SD Huesca
+SD Ponferradina
+UD Almería
+UD Ibiza
+UD Las Palmas
+ -
+SWEDEN
+ALLSVENSKAN
+AIK
+BK Häcken
+Degerfors IF
+Djurgårdens IF
+Halmstads BK
+Hammarby IF
+IF Elfsborg
+IFK Göteborg
+IFK Norrköping
+IK Sirius
+Kalmar FF
+Malmö FF
+Mjällby AIF
+Örebro SK
+Östersunds FK
+Varbergs BoIS
+ -
+SWITZERLAND
+CREDIT SUISSE SUPER LEAGUE
+BSC Young Boys
+FC Basel 1893
+FC Lugano
+FC Luzern
+FC Sion
+FC St. Gallen
+FC Zürich
+Grasshopper Club
+Lausanne-Sport
+Servette FC
+ -
+TURKEY
+SÜPER LİG
+Adana Demirspor
+Alanyaspor
+Altay SK
+Antalyaspor
+Başakşehir
+Beşiktaş
+Çaykur Rizespor
+Fenerbahçe
+Galatasaray
+Gaziantep
+Giresunspor
+Göztepe
+Hatayspor
+Karagümrük SK
+Kasımpaşa
+Kayserispor
+Konyaspor
+Sivasspor
+Trabzonspor
+Yeni Malatyaspor
+ -
+USA/CANADA
+MLS
+Atlanta United
+Austin FC
+CF Montréal
+Chicago Fire FC
+Colorado Rapids
+Columbus Crew
+D.C. United
+FC Cincinnati
+FC Dallas
+Houston Dynamo
+Inter Miami CF
+LA Galaxy
+LAFC
+Minnesota United
+Nashville SC
+New England
+New York City FC
+Orlando City
+Philadelphia
+Portland Timbers
+Real Salt Lake
+Red Bulls
+SJ Earthquakes
+Sounders FC
+Sporting KC
+Toronto FC
+Whitecaps FC
+ -
+WOMEN'S NATIONAL
+Australia
+Belgium
+Brazil (Authentic kit and crest with generic players)
+Canada
+China PR
+England
+France
+Germany
+Mexico
+Netherlands
+New Zealand
+Norway
+Portugal
+Scotland
+Spain
+Sweden
+United States
+ -
+CONMEBOL
+CONMEBOL LIBERTADORES
+Always Ready
+América de Cali
+Argentinos Jrs.
+Atl. Nacional
+Atlético Mineiro (Authentic kit and crest with generic players)
+Barcelona SC
+Boca Juniors
+Cerro Porteño
+Defensa
+Dep. La Guaira
+Dep. Táchira
+Flamengo (Authentic kit and crest with generic players)
+Fluminense (Authentic kit and crest with generic players)
+Independiente DV
+Internacional (Authentic kit and crest with generic players)
+Junior
+LDU Quito
+Nacional
+Olimpia
+Palmeiras (Authentic kit and crest with generic players)
+Racing Club
+Rentistas
+River Plate
+Santa Fe
+Santos (Authentic kit and crest with generic players)
+São Paulo (Authentic kit and crest with generic players)
+Sporting Cristal
+The Strongest
+Uni. Católica
+Unión La Calera
+Universitario
+Vélez Sarsfield
+ 
+CONMEBOL SUDAMERICANA
+12 de Octubre
+Antofagasta
+Aragua FC
+Arsenal
+Athletico-PR (Authentic kit and crest with generic players)
+Atl. Palmaflor
+Atlético-GO (Authentic kit and crest with generic players)
+Aucas
+Bahia (Authentic kit and crest with generic players)
+Bolívar
+C.A. Mannucci
+Ceará SC (Authentic kit and crest with generic players)
+Cerro Largo
+Club Nacional
+Cobresal
+Corinthians (Authentic kit and crest with generic players)
+CS Emelec
+Deportes Tolima
+Deportivo Cali
+Deportivo Pasto
+FBC Melgar
+Fénix
+Grêmio (Authentic kit and crest with generic players)
+Guabirá
+Guaireña
+Guayaquil City
+Huachipato FC
+Independiente
+La Equidad
+Lanús
+Libertad
+Macará
+Montevideo City Torque
+Metropolitanos
+Mineros
+Nacional Potosí
+Newell’s
+Palestino
+Peñarol
+Puerto Cabello
+RB Bragantino (Authentic kit and crest with generic players)
+River Plate
+Rosario Central
+San Lorenzo
+Sport Huancayo
+Talleres
+UTC
+Wilstermann
+ -
