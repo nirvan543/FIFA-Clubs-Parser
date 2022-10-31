@@ -353,7 +353,7 @@ SC East Bengal
  -
 ITALY
 SERIE A TIM
-Bergamo Calcio**
+Bergamo Calcio
 Bologna
 Cagliari
 Empoli
@@ -361,11 +361,11 @@ Fiorentina
 Genoa
 Hellas Verona
 Inter
-Latium**
+Latium
 Milan
 Napoli
-Piemonte Calcio**
-Roma FC**
+Piemonte Calcio
+Roma FC
 Salernitana
 Sampdoria
 Sassuolo
@@ -417,7 +417,7 @@ Argentina
 Australia
 Austria
 Belgium
-Brazil (Authentic kits and badges, generic players)
+Brazil
 Canada
 China PR
 Czech Republic
@@ -782,7 +782,7 @@ Whitecaps FC
 WOMEN'S NATIONAL
 Australia
 Belgium
-Brazil (Authentic kit and crest with generic players)
+Brazil
 Canada
 China PR
 England
@@ -804,28 +804,28 @@ Always Ready
 América de Cali
 Argentinos Jrs.
 Atl. Nacional
-Atlético Mineiro (Authentic kit and crest with generic players)
+Atlético Mineiro
 Barcelona SC
 Boca Juniors
 Cerro Porteño
 Defensa
 Dep. La Guaira
 Dep. Táchira
-Flamengo (Authentic kit and crest with generic players)
-Fluminense (Authentic kit and crest with generic players)
+Flamengo
+Fluminense
 Independiente DV
-Internacional (Authentic kit and crest with generic players)
+Internacional
 Junior
 LDU Quito
 Nacional
 Olimpia
-Palmeiras (Authentic kit and crest with generic players)
+Palmeiras
 Racing Club
 Rentistas
 River Plate
 Santa Fe
-Santos (Authentic kit and crest with generic players)
-São Paulo (Authentic kit and crest with generic players)
+Santos
+São Paulo
 Sporting Cristal
 The Strongest
 Uni. Católica
@@ -838,25 +838,25 @@ CONMEBOL SUDAMERICANA
 Antofagasta
 Aragua FC
 Arsenal
-Athletico-PR (Authentic kit and crest with generic players)
+Athletico-PR
 Atl. Palmaflor
-Atlético-GO (Authentic kit and crest with generic players)
+Atlético-GO
 Aucas
-Bahia (Authentic kit and crest with generic players)
+Bahia
 Bolívar
 C.A. Mannucci
-Ceará SC (Authentic kit and crest with generic players)
+Ceará SC
 Cerro Largo
 Club Nacional
 Cobresal
-Corinthians (Authentic kit and crest with generic players)
+Corinthians
 CS Emelec
 Deportes Tolima
 Deportivo Cali
 Deportivo Pasto
 FBC Melgar
 Fénix
-Grêmio (Authentic kit and crest with generic players)
+Grêmio
 Guabirá
 Guaireña
 Guayaquil City
@@ -874,7 +874,7 @@ Newell’s
 Palestino
 Peñarol
 Puerto Cabello
-RB Bragantino (Authentic kit and crest with generic players)
+RB Bragantino
 River Plate
 Rosario Central
 San Lorenzo

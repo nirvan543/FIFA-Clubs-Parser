@@ -2,7 +2,7 @@ const fs = require('fs/promises');
 
 async function readFifaTeams() {
     try {
-        const data = await fs.readFile('./input/playground.txt', { encoding: 'utf8' });
+        const data = await fs.readFile('./input/fifa23.txt', { encoding: 'utf8' });
         const array = data.split('\n');
 
         let output = {
@@ -38,7 +38,7 @@ async function readFifaTeams() {
 
         const json = JSON.stringify(output);
 
-        await fs.writeFile('./output/output.json', json);
+        await fs.writeFile('./output/fifa23_output.json', json);
     } catch (error) {
         console.log(error);
     }
